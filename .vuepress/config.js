@@ -2,6 +2,12 @@ module.exports = {
   title: 'T251 - Fall 2018',
   description: 'Music Theory and Literature III',
   themeConfig: {
+    algolia: {
+      appId: '1AX0GKGSNL',
+      apiKey: '4a51abda7eb890f308dd2c5fa47f097c',
+      indexName: 'T251',
+    },
+
     sidebar: [
       '/syllabus',
       {
@@ -12,8 +18,6 @@ module.exports = {
           '/unit-1/w1',
           '/unit-1/w2',
           '/unit-1/w3',
-//          ['/unit-1/w4', 'Week 4'],
-//          ['/unit-1/w5', 'Week 5']
         ]
       },
 //     {

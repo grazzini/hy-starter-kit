@@ -23,3 +23,8 @@ git push -f https://github.com/grazzini/grazzini.github.io.git master
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
+
+cd .vuepress/docsearch-scraper
+./docsearch docker:run --config ../algolia-scraper.config.json
+
+cd -

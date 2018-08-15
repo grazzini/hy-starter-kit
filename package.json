@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "docs:dev": "vuepress dev",
+    "docs:dev": "vuepress dev --host localhost --port 8081",
     "docs:build": "vuepress build"
   }
 }
