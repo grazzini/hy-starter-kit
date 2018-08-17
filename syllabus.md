@@ -4,8 +4,6 @@ title: Syllabus
 
 # T251: Syllabus
 
-### Instructor
-
 Steve Grazzini (<grazz@pobox.com>)
 
 **Office hours**: M/W 11:00–12:00 in MU102; or by appointment
@@ -22,15 +20,15 @@ Steve Grazzini (<grazz@pobox.com>)
 **Drills** (TR):
 
 <table>
-  <tr><th>Section</th><th> Time</th><th>Room</th></tr>
-  <tr><td>3355</td><td> 8:00 am</td><td>MA006</td></tr>
-  <tr><td>3356</td><td> 8:00 am</td><td>MA405</td></tr>
-  <tr><td>3358</td><td>10:10 am</td><td>M294 </td></tr>
-  <tr><td>3359</td><td>10:10 am</td><td>MA007</td></tr>
-  <tr><td>3357</td><td>11:15 am</td><td>MA007</td></tr>
-  <tr><td>3360</td><td>11:15 pm</td><td>MA006</td></tr>
-  <tr><td>3362</td><td>12:20 pm</td><td>M298 </td></tr>
-  <tr><td>3363</td><td> 1:25 pm</td><td>M298 </td></tr>
+  <tr><th>Section</th><th> Time</th><th>Room</th><th>AI</th></tr>
+  <tr><td>3355</td><td> 8:00 am</td><td>MA006</td><td>Mattessich</td></tr>
+  <tr><td>3356</td><td> 8:00 am</td><td>MA405</td><td>Panagiotidou</td></tr>
+  <tr><td>3358</td><td>10:10 am</td><td>M294 </td><td>Howey</td></tr>
+  <tr><td>3359</td><td>10:10 am</td><td>MA007</td><td>Panagiotidou</td></tr>
+  <tr><td>3357</td><td>11:15 am</td><td>MA007</td><td>Hofelich</td></tr>
+  <tr><td>3360</td><td>11:15 pm</td><td>MA006</td><td>Howey</td></tr>
+  <tr><td>3362</td><td>12:20 pm</td><td>M298 </td><td>Hofelich</td></tr>
+  <tr><td>3363</td><td> 1:25 pm</td><td>M298 </td><td>Mattessich</td></tr>
 </table>
 
 The Final Exam for this class is on **Friday, December 14, 10:15 – 12:15 pm**.
@@ -50,7 +48,7 @@ and all assignments and projects will be posted on this website.
 
 **Check this website before each class!**
  
-## Course Overview
+### Course Overview
 
 T251 develops analytical, theoretical and compositional perspectives, using three stylistic
 eras as centers of exploration: the Renaissance, the Baroque, and the Classical eras. 
@@ -129,7 +127,7 @@ comprehensive make-up exam at the end of the semester.
 **Incompletes and Withdrawals.** A grade of Incomplete (I) is reserved for extraordinary 
 circumstances (such as a serious illness or death in the family at or near the end of the 
 semester). Please contact me as soon as possible if a problem arises. An automatic grade 
-of (W) is possible without my approval until Wednesday, October 14.
+of (W) is possible without my approval until Sunday, October 21.
 
 **Resources for help with writing.** The Writing Tutorial Services at the Information 
 Commons in the Wells Library offers both appointments and walk-in services for planning, 
@@ -164,9 +162,9 @@ NB: Homework assignments will be posted throughout semester, with at least 2–3
 
 **Important dates**
 
-* Fall break: Friday, October XXX: class does not meet
-* Project #2 due: Friday, October XXX (end of Week 9)
-* Exam #2: Wednesday, October XXX and Friday, October XXX (Week 10)
+* Fall break: Friday, October 5: class does not meet
+* Project #2 due: Monday, October 22 (Week 10)
+* Exam #2: Wednesday, October 24 and Friday, October 26 (Week 10)
 
 #### Unit 3: Classical / Weeks 11-15
 
@@ -177,8 +175,8 @@ NB: Homework assignments will be posted throughout semester, with at least 2–3
 **Main composers**: Haydn, Mozart
 
 **Important dates**
-* Thanksgiving break: Monday, November XXX–Friday, November XXX: no classes
-* Project #3 due: Friday, December X (end of Week 14)
+* Thanksgiving break: Monday, November 19–Friday, November 23: no classes
+* Project #3 due: Monday, December 3 (Week 15)
 
 **Make-up exam**: Saturday, December 8, 10:00 am
 

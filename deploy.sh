@@ -4,13 +4,13 @@
 set -e
 
 # build
-npm run docs:build
+npm run build
 
 # navigate into the build output directory
 cd .vuepress/dist
 
 # if you are deploying to a custom domain
-echo 'www.grazzini.net' > CNAME
+echo 't251.grazzini.net' > CNAME
 
 git init
 git add -A
@@ -24,7 +24,4 @@ git push -f https://github.com/grazzini/grazzini.github.io.git master
 
 cd -
 
-cd .vuepress/docsearch-scraper
-./docsearch docker:run --config ../algolia-scraper.config.json
-
-cd -
+npm run algolia

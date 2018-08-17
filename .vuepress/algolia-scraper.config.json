@@ -1,18 +1,14 @@
 {
   "index_name": "T251",
   "start_urls": [
-    "https://www.grazzini.net/"
-  ],
-  "sitemap_urls": [
-    "https://www.grazzini.net/sitemap.xml"
+    "https://t251.grazzini.net/"
   ],
   "stop_urls": [],
   "selectors": {
-    "lvl0": "ul.sidebar-group-items li a",
-    "lvl1": "h1",
-    "lvl2": "h2",
-    "lvl3": "h3",
-    "lvl4": "h4",
+    "lvl0": "h1",
+    "lvl1": "h2",
+    "lvl2": "h3",
+    "lvl3": "h4",
     "text": "p, li"
   }
 }

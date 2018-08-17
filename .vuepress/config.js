@@ -3,9 +3,12 @@ module.exports = {
   description: 'Music Theory and Literature III',
   themeConfig: {
     algolia: {
-      appId: '1AX0GKGSNL',
-      apiKey: '4a51abda7eb890f308dd2c5fa47f097c',
+      appId: 'VJIBPRX7TQ',
+      apiKey: '4e28485e489ac23796659ce3077ccc68',
       indexName: 'T251',
+      algoliaOptions: {
+        hitsPerPage: 6,
+      }
     },
 
     sidebar: [

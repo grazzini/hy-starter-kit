@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "docs:dev": "vuepress dev --host localhost --port 8081",
-    "docs:build": "vuepress build"
+    "dev": "vuepress dev --host localhost --port 8081",
+    "build": "vuepress build",
+    "algolia": "cd .vuepress/docsearch-scraper && ./docsearch docker:run ../algolia-scraper.config.json"
   }
 }
