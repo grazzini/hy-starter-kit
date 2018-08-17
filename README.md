@@ -5,7 +5,7 @@
 
 ### Instructor
 
-Steve Grazzini (<grazz@pobox.com>)
+Steve Grazzini (<sgrazzin@indiana.edu>)
 
 **Office hours**: M/W 11:00–12:00 in MU102; or by appointment
 
@@ -13,10 +13,10 @@ Steve Grazzini (<grazz@pobox.com>)
 
 ### Associate Instructors
 
-* Trevor Hofelich (<trhofe@iu.edu>)
-* Madeleine Howey (<mphowey@iu.edu>)
-* John Mattessich (<jomatt@iu.edu>)
-* Despoina Panagiotidou (<dpanagi@iu.edu>)
+* Trevor Hofelich (<trhofe@indiana.edu>)
+* Madeleine Howey (<mphowey@indiana.edu>)
+* John Mattessich (<jomatt@indiana.edu>)
+* Despoina Panagiotidou (<dpanagi@indiana.edu>)
 
 **Drills** (TR):
 
