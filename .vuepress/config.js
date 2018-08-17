@@ -12,7 +12,7 @@ module.exports = {
     },
 
     sidebar: [
-      '/syllabus',
+      ['/', 'Syllabus'],
       {
         title: 'Unit 1',
         collapsable: false,
