@@ -1,3 +1,0 @@
-[submodule ".vuepress/docsearch-scraper"]
-	path = .vuepress/docsearch-scraper
-	url = https://github.com/algolia/docsearch-scraper.git
