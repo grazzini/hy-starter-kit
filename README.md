@@ -32,7 +32,7 @@ Steve Grazzini (<grazz@pobox.com>)
   <tr><td>3363</td><td> 1:25 pm</td><td>M298 </td><td>Mattessich</td></tr>
 </table>
 
-The Final Exam for this class is on **Friday, December 14, 10:15 – 12:15 pm**.
+The Final Exam for this class is on **Friday, December 14, 8:00 – 10:00 am**.
 
 Make your travel plans accordingly!
 
