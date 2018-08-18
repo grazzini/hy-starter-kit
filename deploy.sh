@@ -10,7 +10,7 @@ npm run build
 cd .vuepress/dist
 
 # if you are deploying to a custom domain
-echo 't251.grazzini.net' > CNAME
+echo 't251-2018.grazzini.net' > CNAME
 
 git init
 git add -A
@@ -24,4 +24,4 @@ git push -f https://github.com/grazzini/grazzini.github.io.git master
 
 cd -
 
-npm run algolia
+# npm run algolia
