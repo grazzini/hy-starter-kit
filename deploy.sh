@@ -1,5 +1,10 @@
 #!/usr/bin/env sh
 
+message=$1; shift
+if [[ -z "$message" ]]; then
+  message=deploy
+fi
+
 # abort on errors
 set -e
 
@@ -7,7 +12,7 @@ set -e
 npm run build
 
 git add -A
-git commit -m 'deploy'
+git commit -m $message
 
 git push 
 git push heroku master

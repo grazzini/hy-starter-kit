@@ -181,4 +181,4 @@ NB: Homework assignments will be posted throughout semester, with at least 2–3
 
 **Make-up exam**: Saturday, December 8, 10:00 am
 
-**Final Exam**: Friday, December 14, 10:15 – 12:15 pm
+**Final Exam**: Friday, December 14, 8:00 – 10:00 am
