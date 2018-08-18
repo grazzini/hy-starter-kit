@@ -7,7 +7,7 @@
 
 Steve Grazzini (<grazz@pobox.com>)
 
-**Office hours**: M/W 11:00–12:00 in MU102; or by appointment
+**Office**: MU102; hours by appointment
 
 **Lecture**: MWF, 10:10-11:00am (3354), M015 (Sweeney Hall)
 
