@@ -1,7 +1,7 @@
 {
   "index_name": "T251",
   "start_urls": [
-    "https://t251.grazzini.net/"
+    "http://t251.grazzini.net/"
   ],
   "stop_urls": [],
   "selectors": {
