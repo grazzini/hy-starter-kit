@@ -12,7 +12,7 @@ set -e
 npm run build
 
 git add -A
-git commit -m $message
+git commit -m "$message"
 
 git push 
 git push heroku master
