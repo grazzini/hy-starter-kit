@@ -50,7 +50,7 @@ the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
 * Victoria, “O magnum mysterium” (motet, [translation](/translations/o-magnum-mysterium.html))
 * Byrd, Mass for four voices, Kyrie ([translation](/translations/mass.html#kyrie))
 * Byrd, Mass for five voices, Agnus Dei ([translation](/translations/mass.html#agnus-dei))
-* Byrd, “Civitas sancti tui” (anthem, [translation](/translations/civitas-sancti-tui.html))
+* Byrd, “Civitas sancti tui” (motet, [translation](/translations/civitas-sancti-tui.html))
 * Monteverdi, Messa da capella for four voices, Kyrie ([translation](/translations/mass.html#kyrie))
 * Monteverdi, Il lamento d’Arianna, “Lasciatemi morire” (madrigal, [translation](/translations/lasciatemi-morire.html))
 * Monteverdi, “Cruda amarilli” (madrigal, [score](), [translation](/translations/cruda-amarilli.html))
@@ -64,7 +64,6 @@ the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
 
 * Mass (+ Kyrie, Gloria, Sanctus, Agnus Dei)
 * Motet
-* Anthem
 * Chanson
 * Madrigal
 
