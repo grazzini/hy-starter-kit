@@ -62,7 +62,7 @@ the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
 
 ### Genres
 
-* Mass (+ Kyrie, Gloria, Sanctus, Agnus Dei)
+* Mass (+ Kyrie, Gloria, Sanctus & Benedictus, Agnus Dei)
 * Motet
 * Chanson
 * Madrigal
@@ -78,10 +78,9 @@ the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
   * Evaded cadences
   * Cantus and Tenor formulas
   * "Fake" suspensions
-* Imitation, Point of Imitation
+* Imitation, Point of Imitation, Paired imitation
 * Subject
-* Cantus firmus
-* Pre-existing material, Paraphrase, Parody
+* Pre-existing material, Cantus firmus, Paraphrase, Parody
 * Plainchant 
 * Modes
   * Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Ionian
