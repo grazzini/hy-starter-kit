@@ -15,6 +15,7 @@ Steve Grazzini (<grazz@pobox.com>)
 
 * Trevor Hofelich (<trhofe@iu.edu>)
 * Madeleine Howey (<mphowey@iu.edu>)
+* Lucy Liu (<lyliu@imail.iu.edu>)
 * John Mattessich (<jomatt@iu.edu>)
 * Despoina Panagiotidou (<dpanagi@iu.edu>)
 
@@ -26,6 +27,7 @@ Steve Grazzini (<grazz@pobox.com>)
   <tr><td>3356</td><td> 8:00 am</td><td>MA405</td><td>Panagiotidou</td></tr>
   <tr><td>3358</td><td>10:10 am</td><td>M294 </td><td>Howey</td></tr>
   <tr><td>3359</td><td>10:10 am</td><td>MA007</td><td>Panagiotidou</td></tr>
+  <tr><td>3361</td><td>10:10 am</td><td>M205 </td><td>Liu</td></tr>
   <tr><td>3357</td><td>11:15 am</td><td>MA007</td><td>Hofelich</td></tr>
   <tr><td>3360</td><td>11:15 pm</td><td>MA006</td><td>Howey</td></tr>
   <tr><td>3362</td><td>12:20 pm</td><td>M298 </td><td>Hofelich</td></tr>
@@ -181,4 +183,4 @@ NB: Homework assignments will be posted throughout semester, with at least 2–3
 
 **Make-up exam**: Saturday, December 8, 10:00 am
 
-**Final Exam**: Friday, December 14, 8:00 – 10:00 am
+**Final Exam**: Friday, December 14, 8:00 – 10:00 am **in the RECITAL HALL**
