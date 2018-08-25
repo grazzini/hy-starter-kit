@@ -143,7 +143,7 @@ NB: Homework assignments will be posted throughout semester, with at least 2–3
 
 **Compositional techniques**: counterpoint, imitation
 
-**Genres**: mass, motet, anthem, chanson, madrigal
+**Genres**: mass, motet, chanson, madrigal
 
 **Main composers**: Josquin, Palestrina, Byrd, Monteverdi
 
