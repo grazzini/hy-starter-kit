@@ -5,7 +5,7 @@
 
 ### Instructor
 
-Steve Grazzini (<grazz@pobox.com>)
+Steve Grazzini (<sgrazzin@iu.edu>)
 
 **Office**: MU102; hours by appointment
 
