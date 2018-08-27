@@ -6,8 +6,7 @@
 En l'ombre d'ung buissonet<br/>
 Au matinet,<br/>
 Je trouvai Bellon m'amye<br/>
-Qui faisoit<br/>
-Ung chapelet<br/>
+Qui faisoit ung chapelet<br/>
 De lavande et de muguet.<br/>
 En l'ombre d'ung buissonet<br/>
 Au matinet,<br/>
@@ -26,8 +25,7 @@ Si tu veulx a estre m'amye. »<br/>
 In the shade of a bush<br/>
 In the morning<br/>
 I found Bellon my beloved<br/>
-Who was making<br/>
-A garland<br/>
+Who was making a garland<br/>
 Of lavender and lily-of-the-valley.<br/>
 In the shade of a bush,<br/>
 In the morning,<br/>
