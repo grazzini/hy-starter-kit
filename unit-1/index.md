@@ -11,7 +11,7 @@ the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
 ## Assignments
 
 * [Homework 1](HW-1.pdf) (**due 8/27**)
-* Homework 2 (**due 9/1**)
+* [Homework 2](HW-2.pdf) (**due 9/1**)
 * Homework 3 (**due 9/7**)
 * Project 1  (**due 9/17**)
 
