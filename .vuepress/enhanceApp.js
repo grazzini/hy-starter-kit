@@ -15,7 +15,7 @@ function currentHomePage() {
   if (dt < new Date("2018-08-24")) { return "/unit-1/w1.html#_8-23-drill" }
   if (dt < new Date("2018-08-25")) { return "/unit-1/w1.html#_8-24-modes-missa-beata-vergine" }
 
-  if (dt < new Date("2018-08-28")) { return "/unit-1/w2.html#_8-27-evaded-cadences" }
+  if (dt < new Date("2018-08-28")) { return "/unit-1/w2.html#_8-27-more-about-cadences" }
   if (dt < new Date("2018-08-29")) { return "/unit-1/w2.html#_8-28-drill" }
   if (dt < new Date("2018-08-30")) { return "/unit-1/w2.html#_8-29-pre-existing-material" }
   if (dt < new Date("2018-08-31")) { return "/unit-1/w2.html#_8-30-drill" }
