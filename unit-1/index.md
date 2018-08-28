@@ -17,7 +17,7 @@ the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
 
 ## Additional Scores
 
-* [Josquin, Missa beata vergine (clean copy)](missa-de-beata-vergine.pdf)
+* [Josquin, Missa de Beata Vergine (clean copy)](missa-de-beata-vergine.pdf)
 * [Palestrina, Missa benedicta es](missa-benedicta-es.pdf)
 * [Monteverdi, Cruda Amarilli](cruda-amarilli.pdf)
 
