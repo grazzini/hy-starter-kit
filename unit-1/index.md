@@ -42,7 +42,7 @@ the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
 * Palestrina, Missa Brevis, Kyrie ([translation](/translations/mass.html#kyrie))
 * Palestrina, Missa Ut re mi fa sol la, Sanctus ([translation](/translations/mass.html#sanctus))
 * Palestrina, “Surge, amica mea” (motet, [translation](/translations/surge-amica-mea.html))
-* Palestrina, Missa Benedicta es, Gloria & Sanctus (excerpts) ([score](missa-benedicta-es.pdf), [translation](/translations/mass.html#gloria))
+* Palestrina, Missa Benedicta es, [Et in terra pax](https://youtu.be/l-UZKRSA-C0?t=915), [Pleni sunt coeli](https://youtu.be/l-UZKRSA-C0?t=2200), [Hosanna](https://youtu.be/l-UZKRSA-C0?t=2295)  ([score](missa-benedicta-es.pdf), [translation](/translations/mass.html#gloria))
 * Palestrina “Sicut cervus”  (motet, [translation](/translations/sicut-cervus.html))
 * Lasso, “La nuict froide et sombre” (chanson, [translation](/translations/la-nuict-froide-et-sombre.html))
 * Lasso, “Expectatio justorum” (motet, [translation](/translations/expectatio-justorum.html))
