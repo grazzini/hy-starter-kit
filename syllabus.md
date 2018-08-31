@@ -27,7 +27,7 @@ Steve Grazzini (<sgrazzin@iu.edu>)
   <tr><td>3356</td><td> 8:00 am</td><td>MA405</td><td>Panagiotidou</td></tr>
   <tr><td>3358</td><td>10:10 am</td><td>M294 </td><td>Howey</td></tr>
   <tr><td>3359</td><td>10:10 am</td><td>MA007</td><td>Panagiotidou</td></tr>
-  <tr><td>3361</td><td>10:10 am</td><td>M205 </td><td>Liu</td></tr>
+  <tr><td>3361</td><td>10:10 am</td><td>MU205 </td><td>Liu</td></tr>
   <tr><td>3357</td><td>11:15 am</td><td>MA007</td><td>Hofelich</td></tr>
   <tr><td>3360</td><td>11:15 pm</td><td>MA006</td><td>Howey</td></tr>
   <tr><td>3362</td><td>12:20 pm</td><td>M298 </td><td>Hofelich</td></tr>
