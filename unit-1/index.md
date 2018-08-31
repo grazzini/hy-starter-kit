@@ -6,19 +6,20 @@ title: "Unit 1"
 
 Welcome to Unit 1! This unit covers the High Renaissance style of the 
 sixteenth century. We'll work on species counterpoint, while studying 
-the music of composers such as Josquin, Lasso, Palestrina, and Byrd.
+the music of composers such as Josquin, Lasso, Palestrina, Byrd, and
+Monteverdi.
 
 ## Assignments
 
 * [Homework 1](HW-1.pdf) (**due 8/27**)
-* [Homework 2](HW-2.pdf) (**due 9/1**)
-* Homework 3 (**due 9/7**)
+* [Homework 2](HW-2.pdf) (**due 8/31**)
+* [Homework 3](HW-3.pdf) (**due 9/7**)
 * Project 1  (**due 9/17**)
 
 ## Additional Scores
 
 * [Josquin, Missa de Beata Vergine (clean copy)](missa-de-beata-vergine.pdf)
-* [Palestrina, Missa benedicta es](missa-benedicta-es.pdf)
+* [Palestrina, Missa benedicta es (excerpts)](missa-benedicta-es.pdf)
 * [Monteverdi, Cruda Amarilli](cruda-amarilli.pdf)
 
 ## Handouts
