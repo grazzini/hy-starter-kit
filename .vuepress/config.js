@@ -20,7 +20,7 @@ module.exports = {
           ['/unit-1/', 'Materials'],
           '/unit-1/w1',
           '/unit-1/w2',
-//        '/unit-1/w3',
+          '/unit-1/w3',
 //        '/unit-1/w4',
 //        '/unit-1/w5',
         ]

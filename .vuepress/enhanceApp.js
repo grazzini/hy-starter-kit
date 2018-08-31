@@ -21,5 +21,10 @@ function currentHomePage() {
   if (dt < new Date("2018-08-31")) { return "/unit-1/w2.html#_8-30-drill" }
   if (dt < new Date("2018-09-01")) { return "/unit-1/w2.html#_8-31-missa-benedicta-es" }
 
+  if (dt < new Date("2018-09-05")) { return "/unit-1/w3.html#_9-04-drill" }
+  if (dt < new Date("2018-09-06")) { return "/unit-1/w3.html#_9-05-the-hexachord" }
+  if (dt < new Date("2018-09-07")) { return "/unit-1/w3.html#_9-06-drill" }
+  if (dt < new Date("2018-09-08")) { return "/unit-1/w3.html#_9-07-missa-hercules-dux-ferrariae" }
+
   return "/unit-1"
 }

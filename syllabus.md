@@ -13,9 +13,9 @@ Steve Grazzini (<sgrazzin@iu.edu>)
 
 ### Associate Instructors
 
+* Nicole DiPaolo (<ndipaolo@iu.edu>)
 * Trevor Hofelich (<trhofe@iu.edu>)
 * Madeleine Howey (<mphowey@iu.edu>)
-* Lucy Liu (<lyliu@imail.iu.edu>)
 * John Mattessich (<jomatt@iu.edu>)
 * Despoina Panagiotidou (<dpanagi@iu.edu>)
 
