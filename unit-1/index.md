@@ -12,7 +12,7 @@ Monteverdi.
 ## Assignments
 
 * [Homework 1](HW-1.pdf) (**due 8/27**)
-* [Homework 2](HW-2.pdf) (**due 8/31**)
+* [Homework 2](HW-2.pdf) (**due 8/31** -- will accept on 9/4 without penalty)
 * [Homework 3](HW-3.pdf) (**due 9/7**)
 * Project 1  (**due 9/17**)
 
