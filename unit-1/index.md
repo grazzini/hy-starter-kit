@@ -15,7 +15,7 @@ Monteverdi.
 * [Homework 2](HW-2.pdf) (**due 8/31** -- will accept on 9/4 without penalty)
 * [Homework 3](HW-3.pdf) (**due 9/7**)
 * [Homework 4](HW-4.pdf) (**due 9/14**)
-* Project 1  (**due 9/17**)
+* [Project 1](Project-1.pdf) (**due 9/17**)
 
 ## Additional Scores
 
@@ -48,7 +48,6 @@ Monteverdi.
 * Palestrina “Sicut cervus”  (motet, [translation](/translations/sicut-cervus.html))
 * Lasso, “La nuict froide et sombre” (chanson, [translation](/translations/la-nuict-froide-et-sombre.html))
 * Lasso, “Expectatio justorum” (motet, [translation](/translations/expectatio-justorum.html))
-* Lasso, “Sicut rosa” (motet, [translation](/translations/sicut-rosa.html))
 * Victoria, “O magnum mysterium” (motet, [translation](/translations/o-magnum-mysterium.html))
 * Byrd, Mass for four voices, Kyrie ([translation](/translations/mass.html#kyrie))
 * Byrd, Mass for five voices, Agnus Dei ([translation](/translations/mass.html#agnus-dei))
