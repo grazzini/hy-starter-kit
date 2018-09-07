@@ -1,12 +1,12 @@
 # TODO
 
-HW4 - Need a practice bass for rule of the octave
+HW5 - Need a practice bass for rule of the octave
 
-HW5 - Need Bach and Vivaldi basses
+HW6 - Need Bach and Vivaldi basses
     * The Bach should include a keyboard-spacing RH 
     * The Vivaldi is just a bass
 
-HW6 - Reuse from T261
+HW7 - Reuse from T261?
 
 * Week 6
   * Drill 6
@@ -16,7 +16,7 @@ HW6 - Reuse from T261
 * Week 7
   * Drill:
     * Make HW5/2010 into a worksheet
-  * Sequence worksheet (new?)
+  * Sequence worksheet (completely new?)
 
 * Week 8 
   * Drill:
@@ -26,3 +26,4 @@ HW6 - Reuse from T261
 
 * Week 9
   * Worksheet: Writing a complete fugue exposition - adapt from earlier version of project?
+
