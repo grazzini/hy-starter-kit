@@ -1,5 +1,7 @@
 # TODO
 
+* Listening List
+
 HW5 - Need a practice bass for rule of the octave
 
 HW6 - Need Bach and Vivaldi basses

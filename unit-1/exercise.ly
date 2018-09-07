@@ -1,5 +1,6 @@
 % LilyBin
 global = {
+  \override ragged-right ##t
   \hide Staff.BarLine
   s1 s s s s s s s s s 
   % the final bar line is not interrupted
