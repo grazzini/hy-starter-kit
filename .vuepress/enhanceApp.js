@@ -1,5 +1,5 @@
 export default ({ router }) => {
-  router.beforeEach((to, from, next) => { 
+  router.beforeEach((to, from, next) => {
     if (to.path === '/') {
       router.replace(currentHomePage())
     } else {
@@ -26,9 +26,9 @@ function currentHomePage() {
   if (dt < new Date("2018-09-07")) { return "/unit-1/w3.html#_9-06-drill" }
   if (dt < new Date("2018-09-08")) { return "/unit-1/w3.html#_9-07-missa-hercules-dux-ferrariae" }
 
-  if (dt < new Date("2018-09-11")) { return "/unit-1/w4.html#_9-10-byrd" }
+  if (dt < new Date("2018-09-11")) { return "/unit-1/w4.html#_9-10-byrd-byrd-byrd" }
   if (dt < new Date("2018-09-12")) { return "/unit-1/w4.html#_9-11-drill" }
-  if (dt < new Date("2018-09-13")) { return "/unit-1/w4.html#_9-12-text-setting" }
+  if (dt < new Date("2018-09-13")) { return "/unit-1/w4.html#_9-12-text-setting-and-word-painting" }
   if (dt < new Date("2018-09-14")) { return "/unit-1/w4.html#_9-13-drill" }
   if (dt < new Date("2018-09-15")) { return "/unit-1/w4.html#_9-14-the-seconda-pratica" }
 
