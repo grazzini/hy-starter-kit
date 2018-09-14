@@ -4,8 +4,8 @@ title: "Unit 1"
 
 # Unit 1
 
-Welcome to Unit 1! This unit covers the High Renaissance style of the 
-sixteenth century. We'll work on species counterpoint, while studying 
+Welcome to Unit 1! This unit covers the High Renaissance style of the
+sixteenth century. We'll work on species counterpoint, while studying
 the music of composers such as Josquin, Lasso, Palestrina, Byrd, and
 Monteverdi.
 
@@ -29,8 +29,8 @@ Monteverdi.
 * [Guidelines 2 - Second Species](guidelines-2.pdf)
 * [Guidelines 3 - Fourth Species](guidelines-3.pdf)
 * [Guidelines 4 - First Species, Three Part](guidelines-4.pdf)
-* [Handout - Cadences](cadences.pdf) 
-  * [Example three-part cadences](http://t251.grazzini.net/unit-1/three-part-cadences.pdf) 
+* [Handout - Cadences](cadences.pdf)
+  * [Example three-part cadences](http://t251.grazzini.net/unit-1/three-part-cadences.pdf)
   * A bit more on cadences [here](https://docs.google.com/presentation/d/15tbvoP6SZD1jvL219Hk1SU4D2HYm-6492ImTiA4XB8w/edit?usp=sharing)
 * [Handout - Modes](modes.pdf)
 * [Handout - Hexachords](hexachords.pdf)
@@ -46,7 +46,7 @@ Monteverdi.
 * Palestrina, Missa Brevis, Kyrie ([translation](/translations/mass.html#kyrie))
 * Palestrina, Missa Ut re mi fa sol la, Sanctus ([translation](/translations/mass.html#sanctus))
 * Palestrina, “Surge, amica mea” (motet, [translation](/translations/surge-amica-mea.html))
-* Palestrina, Missa Benedicta es, [Et in terra pax](https://youtu.be/l-UZKRSA-C0?t=915), [Pleni sunt coeli](https://youtu.be/l-UZKRSA-C0?t=2200), [Hosanna](https://youtu.be/l-UZKRSA-C0?t=2295)  
+* Palestrina, Missa Benedicta es, [Et in terra pax](https://youtu.be/l-UZKRSA-C0?t=915), [Pleni sunt coeli](https://youtu.be/l-UZKRSA-C0?t=2200), [Hosanna](https://youtu.be/l-UZKRSA-C0?t=2295)
   * [Score](missa-benedicta-es.pdf), [Translation](/translations/mass.html#gloria)
 * Lasso, “La nuict froide et sombre” (chanson, [translation](/translations/la-nuict-froide-et-sombre.html))
 * Lasso, “Expectatio justorum” (motet, [translation](/translations/expectatio-justorum.html))
@@ -82,8 +82,9 @@ Monteverdi.
   * "Fake" suspensions
 * Imitation, Point of Imitation, Paired imitation
 * Subject
+  * "Soggetto Cavato"
 * Pre-existing material, Cantus firmus, Paraphrase, Parody
-* Plainchant 
+* Plainchant
 * Modes
   * Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Ionian
   * Hypodorian, Hypophrygian, etc.
