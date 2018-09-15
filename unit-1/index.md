@@ -97,9 +97,12 @@ Monteverdi.
   * Evaded cadences
   * Cantus (8-7-8) and Tenor (2-1) formulas
   * "Fake" suspensions
-* Imitation, Point of Imitation, Paired imitation
+* Imitation
+  * Point of Imitation
+  * Paired imitation
+  * **Canon** (9/7)
 * Subject
-  * **Countersubject**
+  * **Countersubject** (8/24)
   * **"Soggetto Cavato"** (9/7)
   * **Transformations of the subject: Inversion, Retrograde, Diminution, Augmentation** (9/12)
 * Pre-existing material
@@ -110,7 +113,7 @@ Monteverdi.
   * Hypodorian, Hypophrygian, etc.
   * Authentic and Plagal
   * Range, Ambitus
-  * **"Transposed" modes (G dorian, for example)**
+  * **"Transposed" modes (G dorian, for example)** (8/24)
 * Hexachord
   * Natural, Hard, and Soft Hexachords
   * **Mutation** (9/5)
