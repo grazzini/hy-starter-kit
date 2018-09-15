@@ -22,20 +22,20 @@ module.exports = {
           '/unit-1/w2',
           '/unit-1/w3',
           '/unit-1/w4',
-//        '/unit-1/w5',
+          '/unit-1/w5',
         ]
       },
-       {
-          title: 'Unit 2',
-          children: [
-            ['/unit-2/', 'Materials'],
+//     {
+//        title: 'Unit 2',
+//        children: [
+//          ['/unit-2/', 'Materials'],
 //          '/unit-2/w6',
 //          '/unit-2/w7',
 //          '/unit-2/w8',
 //          '/unit-2/w9',
 //          '/unit-2/w10',
-          ],
-        },
+//        ],
+//      },
 //      {
 //        title: 'Unit 3'
 //        children: [

@@ -32,5 +32,11 @@ function currentHomePage() {
   if (dt < new Date("2018-09-14")) { return "/unit-1/w4.html#_9-13-drill" }
   if (dt < new Date("2018-09-15")) { return "/unit-1/w4.html#_9-14-the-seconda-pratica" }
 
+  if (dt < new Date("2018-09-18")) { return "/unit-1/w5.html#_9-17-monteverdi" }
+  if (dt < new Date("2018-09-19")) { return "/unit-1/w5.html#_9-18-drill-listening-exam-review" }
+  if (dt < new Date("2018-09-20")) { return "/unit-1/w5.html#_9-19-listening-exam-1" }
+  if (dt < new Date("2018-09-21")) { return "/unit-1/w5.html#_9-20-drill-written-exam-review" }
+  if (dt < new Date("2018-09-22")) { return "/unit-1/w5.html#_9-21-written-exam-1" }
+
   return "/unit-1"
 }
