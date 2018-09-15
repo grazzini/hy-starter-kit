@@ -54,9 +54,8 @@ Monteverdi.
   * [Sanctus](https://www.youtube.com/watch?v=F0YcwzjG_sY&index=11&list=PLYyTDR5WeGuTtL7G92HVmXBzi6G2xiL1a)
 * Palestrina, “Surge, amica mea” (motet, [translation](/translations/surge-amica-mea.html))
   * ["Surge, amica mea"](https://www.youtube.com/watch?v=HWN55FrYDfs&list=PLYyTDR5WeGuTtL7G92HVmXBzi6G2xiL1a&index=17)
-* Palestrina, Missa Benedicta es
+* Palestrina, Missa Benedicta es ([score](missa-benedicta-es.pdf), [translation](/translations/mass.html#gloria))
   * ["Et in terra pax"](https://youtu.be/l-UZKRSA-C0?t=915), ["Pleni sunt coeli](https://youtu.be/l-UZKRSA-C0?t=2200), [Hosanna](https://youtu.be/l-UZKRSA-C0?t=2295)
-  * [Score](missa-benedicta-es.pdf), [Translation](/translations/mass.html#gloria)
 * Lasso, “La nuict froide et sombre” (chanson, [translation](/translations/la-nuict-froide-et-sombre.html))
   * ["La nuict"](https://www.youtube.com/watch?v=UQN6gFnsGI4&index=19&list=PLYyTDR5WeGuTtL7G92HVmXBzi6G2xiL1a)
 * Lasso, “Expectatio justorum” (motet, [translation](/translations/expectatio-justorum.html))
