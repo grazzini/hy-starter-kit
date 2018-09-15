@@ -95,22 +95,27 @@ Monteverdi.
 * Species counterpoint (+ First, Second, Fourth species)
 * Cadences
   * Evaded cadences
-  * Cantus and Tenor formulas
+  * Cantus (8-7-8) and Tenor (2-1) formulas
   * "Fake" suspensions
 * Imitation, Point of Imitation, Paired imitation
 * Subject
   * "Soggetto Cavato"
-* Pre-existing material, Cantus firmus, Paraphrase, Parody
-* Plainchant
+  * Transformations of the subject: Inversion, Retrograde, Diminution, Augmentation
+* Pre-existing material
+  * Plainchant
+  * Techniques for using: Cantus firmus, Paraphrase, Parody
 * Modes
   * Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Ionian
   * Hypodorian, Hypophrygian, etc.
   * Authentic and Plagal
   * Range, Ambitus
+  * "Transposed" modes (G dorian, for example)
 * Hexachord
   * Natural, Hard, and Soft Hexachords
+  * Mutation
   * Gamut
   * Solfège, Solmization (Ut, re, mi, fa, sol, la)
   * Gamma ut, A la mi re, etc.
   * Gamut
-* Text setting
+* Text setting, Word Painting
+* Prima Pratica vs. Seconda Pratica
