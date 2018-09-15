@@ -86,7 +86,7 @@ Monteverdi.
 * Chanson
 * Madrigal
 
-### Techniques
+### Techniques and other Terminology
 
 * Counterpoint
   * Consonance, Dissonance
@@ -99,8 +99,9 @@ Monteverdi.
   * "Fake" suspensions
 * Imitation, Point of Imitation, Paired imitation
 * Subject
-  * "Soggetto Cavato"
-  * Transformations of the subject: Inversion, Retrograde, Diminution, Augmentation
+  * **Countersubject**
+  * **"Soggetto Cavato"** (9/7)
+  * **Transformations of the subject: Inversion, Retrograde, Diminution, Augmentation** (9/12)
 * Pre-existing material
   * Plainchant
   * Techniques for using: Cantus firmus, Paraphrase, Parody
@@ -109,13 +110,12 @@ Monteverdi.
   * Hypodorian, Hypophrygian, etc.
   * Authentic and Plagal
   * Range, Ambitus
-  * "Transposed" modes (G dorian, for example)
+  * **"Transposed" modes (G dorian, for example)**
 * Hexachord
   * Natural, Hard, and Soft Hexachords
-  * Mutation
+  * **Mutation** (9/5)
   * Gamut
   * Solfège, Solmization (Ut, re, mi, fa, sol, la)
   * Gamma ut, A la mi re, etc.
-  * Gamut
-* Text setting, Word Painting
-* Prima Pratica vs. Seconda Pratica
+* Text setting, **Word Painting** (9/12)
+* **Prima Pratica vs. Seconda Pratica** (9/14)
