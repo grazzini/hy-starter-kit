@@ -30,7 +30,7 @@ module.exports = {
           collapsable: false,
           children: [
             ['/unit-2/', 'Materials'],
-//          '/unit-2/w6',
+            '/unit-2/w6',
 //          '/unit-2/w7',
 //          '/unit-2/w8',
 //          '/unit-2/w9',
