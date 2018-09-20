@@ -91,6 +91,10 @@ Purcell, Bach, Couperin, Handel, Vivaldi, and Corelli.
 
 ## Terminology and Concepts
 
+### Styles
+
+* The "stile recitativo" (also "stile moderno", "stile rappresentativo")
+
 ### Genres
 
 * Madrigal
@@ -107,17 +111,21 @@ Purcell, Bach, Couperin, Handel, Vivaldi, and Corelli.
 
 * Thoroughbass (basso continuo)
   * Figured bass, unfigured bass
+  * Realization, reduction
+  * The Rule of the Octave
+  * Thoroughbass formulas
+  * The "Lament Bass"
   * Pedal points
   * Sequence
 * Ground bass variations (basso ostinato)
   * Chaconne
   * Passacaglia
   * Folia
-* Imitation
-* Improvisatory performance techniques
-  * Continuo accompaniment
-  * The Rule of the Octave
-  * Preluding
+* Preluding
+* Imitation, fugue
+  * Invertible counterpoint
+  * Stretto
+  * Inversion, augmentation, diminution
 
 ### Forms
 
