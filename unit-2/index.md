@@ -4,10 +4,11 @@ title: "Unit 2"
 
 # Unit 2
 
-Welcome to Unit 2! This unit covers the Baroque Era, from roughly 1600
-to 1750. We'll work a lot on thoroughbass (accompaniment from a figured bass)
-and on fugue. Our repertory for analysis will contain works by Monteverdi,
-Purcell, Bach, Couperin, Handel, Vivaldi, and Corelli.
+Welcome to Unit 2! This unit covers the Baroque Era, from roughly 1600 to
+1750. We'll work a lot on thoroughbass (deriving a harmonic accompaniment
+from a figured or unfigured bass) and on fugue. Our repertory for analysis
+will contain works by Monteverdi, Purcell, Bach, Couperin, Handel, Vivaldi,
+and Corelli.
 
 ## Assignments
 
