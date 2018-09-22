@@ -12,7 +12,7 @@ and Corelli.
 
 ## Assignments
 
-* Homework 5 (**due 10/4**)
+* [Homework 5](HW-5.pdf) (**due 10/4**)
 * Homework 6 (**due 10/11**)
 * Homework 7 (**due 10/16**)
 * Project 2  (**due 10/22**)
@@ -31,6 +31,8 @@ and Corelli.
 
 ## Additional Scores
 
+* [Monteverdi, "Cruda Amarilli"](../unit-1/cruda-amarilli.pdf) (from last Unit)
+* [Monteverdi, _Il lamento d'Arianna_](../unit-1/lamento-di-arianna-solo.pdf) (from last Unit)
 * [Monteverdi, "Tu sei morta" (_Orfeo_)](tu-sei-morta.pdf) (clean score)
 * [Monteverdi, _Il lamento della ninfa_](lamento-della-ninfa.pdf)
 * Bach, Chorale Prelude on "Wachet auf": Original cantata movement (optional)
