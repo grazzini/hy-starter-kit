@@ -38,5 +38,11 @@ function currentHomePage() {
   if (dt < new Date("2018-09-21")) { return "/unit-1/w5.html#_9-20-drill-written-exam-review" }
   if (dt < new Date("2018-09-22")) { return "/unit-1/w5.html#_9-21-written-exam-1" }
 
-  return "/unit-1"
+  if (dt < new Date("2018-09-25")) { return "/unit-2/w6.html#_9-24-the-baroque-era" }
+  if (dt < new Date("2018-09-26")) { return "/unit-2/w6.html#_9-25-drill" }
+  if (dt < new Date("2018-09-27")) { return "/unit-2/w6.html#_9-26-basso-ostinato-variations" }
+  if (dt < new Date("2018-09-28")) { return "/unit-2/w6.html#_9-27-drill" }
+  if (dt < new Date("2018-09-29")) { return "/unit-2/w6.html#_9-28-the improvised-prelude" }
+
+  return "/unit-2"
 }
