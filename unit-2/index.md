@@ -31,6 +31,7 @@ and Corelli.
 
 ## Additional Scores
 
+* [Monteverdi, "Tu sei morta" (_Orfeo_)](tu-sei-morta.pdf) (clean score)
 * [Monteverdi, _Il lamento della ninfa_](lamento-della-ninfa.pdf)
 * Bach, Chorale Prelude on "Wachet auf": Original cantata movement (optional)
 * Bach, Chorale Prelude on "Wer nur den leben": Original cantata movement (optional)
