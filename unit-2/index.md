@@ -7,8 +7,8 @@ title: "Unit 2"
 Welcome to Unit 2! This unit covers the Baroque Era, from roughly 1600 to
 1750. We'll work a lot on thoroughbass (deriving a harmonic accompaniment
 from a figured or unfigured bass) and on fugue. Our repertory for analysis
-will contain works by Monteverdi, Purcell, Bach, Couperin, Handel, Vivaldi,
-and Corelli.
+will contain works by Bach, Monteverdi, François Couperin, Purcell, Handel,
+Vivaldi, and Corelli.
 
 ## Assignments
 
@@ -41,7 +41,7 @@ and Corelli.
 ## Listening List
 
 * Monteverdi, Orfeo (opera)
-  * [excerpt](https://youtu.be/_7Wo-3DtI34?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=434)
+  * ["Tu sei morta"](https://youtu.be/_7Wo-3DtI34?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=434)
 * Monteverdi, _Il lamento della Ninfa_ (madrigal)
 * Monteverdi, "Si dolce il tormento" (canzonetta)
 * Couperin, Prelude in C major, from _L'Art de toucher le clavecin_
@@ -88,8 +88,8 @@ and Corelli.
   * [Mvt. 1](https://www.youtube.com/watch?v=nvszOlv2ffs)
   * [Mvt. 7, Choral](https://youtu.be/nvszOlv2ffs?t=1325))
 * Bach, Mass in B minor
-  * Agnus Dei
-  * Dona nobis pacem
+  * [Agnus Dei]()
+  * [Dona nobis pacem]()
 
 [YouTube playlist](https://www.youtube.com/playlist?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp)
 
