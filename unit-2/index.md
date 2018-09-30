@@ -42,7 +42,6 @@ Vivaldi, and Corelli.
 
 * Monteverdi, Orfeo (opera)
   * ["Tu sei morta"](https://youtu.be/_7Wo-3DtI34?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=434)
-* Monteverdi, _Il lamento della Ninfa_ (madrigal)
 * Monteverdi, "Si dolce il tormento" (canzonetta)
 * Couperin, Prelude in C major, from _L'Art de toucher le clavecin_
 * Purcell, Chacony in G minor

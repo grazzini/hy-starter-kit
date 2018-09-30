@@ -15,7 +15,7 @@ module.exports = {
       ['/syllabus', 'Syllabus'],
       {
         title: 'Unit 1',
-        collapsable: false,
+        collapsable: true,
         children: [
           ['/unit-1/', 'Materials'],
           '/unit-1/w1',
@@ -31,7 +31,7 @@ module.exports = {
           children: [
             ['/unit-2/', 'Materials'],
             '/unit-2/w6',
-//          '/unit-2/w7',
+            '/unit-2/w7',
 //          '/unit-2/w8',
 //          '/unit-2/w9',
 //          '/unit-2/w10',

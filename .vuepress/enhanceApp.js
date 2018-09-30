@@ -44,5 +44,11 @@ function currentHomePage() {
   if (dt < new Date("2018-09-28")) { return "/unit-2/w6.html#_9-27-drill" }
   if (dt < new Date("2018-09-29")) { return "/unit-2/w6.html#_9-28-the-improvised-prelude" }
 
+  if (dt < new Date("2018-10-02")) { return "/unit-2/w7.html#_10-01-the-baroque-suite" }
+  if (dt < new Date("2018-10-03")) { return "/unit-2/w7.html#_10-02-drill" }
+  if (dt < new Date("2018-10-04")) { return "/unit-2/w7.html#_10-03-the-sonata-da-chiesa" }
+  if (dt < new Date("2018-10-05")) { return "/unit-2/w7.html#_10-04-drill" }
+  if (dt < new Date("2018-10-06")) { return "/unit-2/w7.html#_10-05-fall-break" }
+
   return "/unit-2"
 }
