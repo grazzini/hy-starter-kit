@@ -50,5 +50,11 @@ function currentHomePage() {
   if (dt < new Date("2018-10-05")) { return "/unit-2/w7.html#_10-04-drill" }
   if (dt < new Date("2018-10-06")) { return "/unit-2/w7.html#_10-05-fall-break" }
 
+  if (dt < new Date("2018-10-09")) { return "/unit-2/w8.html#_10-08-ritornello-forms" }
+  if (dt < new Date("2018-10-10")) { return "/unit-2/w8.html#_10-09-drill" }
+  if (dt < new Date("2018-10-11")) { return "/unit-2/w8.html#_10-10-the-baroque-fugue" }
+  if (dt < new Date("2018-10-12")) { return "/unit-2/w8.html#_10-11-drill" }
+  if (dt < new Date("2018-10-13")) { return "/unit-2/w8.html#_10-12-more-on-the-fugue" }
+
   return "/unit-2"
 }
