@@ -13,7 +13,7 @@ Vivaldi, and Corelli.
 ## Assignments
 
 * [Homework 5](HW-5.pdf) (**due 10/4**)
-* Homework 6 (**due 10/12**)
+* [Homework 6](HW-6.pdf) (**due 10/12**)
 * Homework 7 (**due 10/17**)
 * Project 2  (**due 10/22**)
 
@@ -90,19 +90,19 @@ Vivaldi, and Corelli.
   * [Fugue](https://youtu.be/VAw6AJuY1ho?t=249&t=0)
 * Bach, Violin Sonata in G minor
   * [Adagio](https://www.youtube.com/watch?v=Tx7yru0XlMQ&t=0)
-  * [Fugue](https://www.youtube.com/watch?v=xUl2BP8JYUg&t=0))
+  * [Fugue](https://www.youtube.com/watch?v=xUl2BP8JYUg&t=0)
 * Bach, Chorale Prelude, "Wachet auf, ruft uns die Stimme"
   * [Chorale Prelude](https://www.youtube.com/watch?v=NHhuyhlSSiA&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&index=24&t=0s)
-  * [Original Cantata Movement](https://youtu.be/NkSK9tEUTxU?t=761))
+  * [Original Cantata Movement](https://youtu.be/NkSK9tEUTxU?t=761)
 * Bach, Chorale Prelude, "Wer nur den leben, Gott lasst walten"
   * [Chorale Prelude](https://www.youtube.com/watch?v=vhn5Aa_rr9Y&t=21s)
-  * [Original Cantata Movement](https://youtu.be/sFw6IDdmm9s?t=651))
+  * [Original Cantata Movement](https://youtu.be/sFw6IDdmm9s?t=651)
 * Bach, Jesu du der meine Seele, BWV 78 (cantata)
   * [Mvt. 1](https://www.youtube.com/watch?v=nvszOlv2ffs&t=0)
-  * [Mvt. 7, Choral](https://youtu.be/nvszOlv2ffs?t=1325))
+  * [Mvt. 7, Choral](https://youtu.be/nvszOlv2ffs?t=1325)
 * Bach, Mass in B minor
-  * [Agnus Dei]([Recording](https://www.youtube.com/watch?v=jCb9in4Pm8s&index=17&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0), [Translation(/translations/mass.html#agnus-dei))
-  * [Dona nobis pacem]([Recording](https://www.youtube.com/watch?v=v8yOP9EUIY8&index=30&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0), [Translation](/translations/mass.html#dona-nobis-pacem))
+  * Agnus Dei ([Recording](https://www.youtube.com/watch?v=jCb9in4Pm8s&index=17&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0), [Translation(/translations/mass.html#agnus-dei))
+  * Dona nobis pacem ([Recording](https://www.youtube.com/watch?v=v8yOP9EUIY8&index=30&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0), [Translation](/translations/mass.html#dona-nobis-pacem))
 
 [YouTube playlist](https://www.youtube.com/playlist?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp)
 
