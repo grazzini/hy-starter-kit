@@ -56,5 +56,11 @@ function currentHomePage() {
   if (dt < new Date("2018-10-12")) { return "/unit-2/w8.html#_10-11-drill" }
   if (dt < new Date("2018-10-13")) { return "/unit-2/w8.html#_10-12-more-on-the-fugue" }
 
+  if (dt < new Date("2018-10-16")) { return "/unit-2/w8.html#_10-15-invertible-counterpoint" }
+  if (dt < new Date("2018-10-17")) { return "/unit-2/w8.html#_10-16-drill" }
+  if (dt < new Date("2018-10-18")) { return "/unit-2/w8.html#_10-17-cantatas-and-chorale-preludes" }
+  if (dt < new Date("2018-10-19")) { return "/unit-2/w8.html#_10-18-drill" }
+  if (dt < new Date("2018-10-20")) { return "/unit-2/w8.html#_10-19-jesu-du-der-meine-seele" }
+
   return "/unit-2"
 }
