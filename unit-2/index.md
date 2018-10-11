@@ -14,8 +14,8 @@ Vivaldi, and Corelli.
 
 * [Homework 5](HW-5.pdf) (**due 10/4**)
 * [Homework 6](HW-6.pdf) (**due 10/12**)
-* Homework 7 (**due 10/17**)
-* Project 2  (**due 10/22**)
+* [Homework 7](HW-7.pdf) (**due 10/17**)
+* [Project 2](Project-2.pdf)  (**due 10/22**)
 
 ## Handouts
 
@@ -66,8 +66,8 @@ Vivaldi, and Corelli.
   * [Vivace/Grave](https://youtu.be/RydMnTCwJvQ?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=12)
   * [Allegro](https://youtu.be/RydMnTCwJvQ?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=107)
 * Handel, "D'un sventurato amante... Pena Tiranna" from _Amadigi_<br>(opera: recitative and aria)
-  * [Recitative](https://www.youtube.com/watch?v=76829XNGNcc&index=15&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0)
-  * [Aria](https://www.youtube.com/watch?v=kbJR2Z4LoAk&index=16&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0)
+  * [Recitative](https://www.youtube.com/watch?v=76829XNGNcc&index=15&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp)
+  * [Aria](https://www.youtube.com/watch?v=kbJR2Z4LoAk&index=16&t=0s&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp)
 * Vivaldi, Concerto in A minor, Op. 3, no. 6
   * [Largo](https://youtu.be/XmGQ_bvM0lQ?t=2426)
   * [Presto](https://www.youtube.com/watch?v=XmGQ_bvM0lQ&t=2533s)
@@ -75,19 +75,18 @@ Vivaldi, and Corelli.
   * [Recitative](https://www.youtube.com/watch?v=8eWhUvWK2xs&t=0)
   * [Aria](https://www.youtube.com/watch?v=0WLedpz9a40&index=19&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0s)
 * Bach, Prelude and Fugue in C major, WTC I, no. 1
-  * [Prelude]()
-  * [Fugue]()
+  * [Prelude](https://www.youtube.com/watch?v=PUBxydt6P7w&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0s&index=20)
+  * [Fugue](https://www.youtube.com/watch?v=qodY3wzjhpE&t=0)
 * Bach, Fugue in C minor, WTC I, no. 3
-  * [Fugue]()
-* Bach, Prelude and Fugue in C-sharp major, WTC I, no. 3
-  * [Prelude]()
-  * [Fugue]()
+  * [Fugue](https://youtu.be/FbxiDHSBqAw?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=128)
+* Bach, Fugue in C-sharp major, WTC I, no. 3
+  * [Fugue](https://www.youtube.com/watch?v=DkndFX_PkwA&t=0)
 * Bach, Fugue in G minor, WTC I, no. 16
-  * [Fugue]()
+  * [Fugue](https://youtu.be/bGW4QhuUNHw?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=131)
 * Bach, Fugue in B-flat major, WTC I, no. 21
-  * [Fugue]()
+  * [Fugue](https://youtu.be/Y9KHhjUwG14?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=82)
 * Bach, Toccata in E minor
-  * [Fugue](https://youtu.be/VAw6AJuY1ho?t=249&t=0)
+  * [Fugue](https://youtu.be/VAw6AJuY1ho?t=249)
 * Bach, Violin Sonata in G minor
   * [Adagio](https://www.youtube.com/watch?v=Tx7yru0XlMQ&t=0)
   * [Fugue](https://www.youtube.com/watch?v=xUl2BP8JYUg&t=0)
