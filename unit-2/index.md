@@ -96,7 +96,7 @@ Vivaldi, and Corelli.
 * Bach, Chorale Prelude, "Wer nur den leben, Gott lasst walten"
   * [Chorale Prelude](https://www.youtube.com/watch?v=vhn5Aa_rr9Y&t=21s)
   * [Original Cantata Movement](https://youtu.be/sFw6IDdmm9s?t=651)
-* Bach, Jesu du der meine Seele, BWV 78 (cantata)
+* Bach, Jesu der du meine Seele, BWV 78 (cantata)
   * [Mvt. 1](https://www.youtube.com/watch?v=nvszOlv2ffs&t=0)
   * [Mvt. 7, Choral](https://youtu.be/nvszOlv2ffs?t=1325)
 * Bach, Mass in B minor
