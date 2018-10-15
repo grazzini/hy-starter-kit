@@ -26,7 +26,7 @@ Vivaldi, and Corelli.
 * [Dance Suites](dance-suites.pdf)
 * [Ritornello form](ritornello-form.pdf)
 * [Fugue terminology](fugue-terminology.pdf)
-* Invertible Counterpoint
+* [Invertible Counterpoint](invertible-counterpoint.pdf)
 
 ## Additional Scores
 
