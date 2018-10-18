@@ -34,8 +34,6 @@ Vivaldi, and Corelli.
 * [Monteverdi, _Il lamento d'Arianna_](../unit-1/lamento-di-arianna-solo.pdf) (from last Unit)
 * [Monteverdi, "Tu sei morta" (_Orfeo_)](tu-sei-morta.pdf) (clean score)
 * [Monteverdi, _Il lamento della ninfa_](lamento-della-ninfa.pdf)
-* Bach, Chorale Prelude on "Wachet auf": Original cantata movement (optional)
-* Bach, Chorale Prelude on "Wer nur den leben": Original cantata movement (optional)
 
 ## Listening List
 
@@ -93,9 +91,6 @@ Vivaldi, and Corelli.
 * Bach, Chorale Prelude, "Wachet auf, ruft uns die Stimme"
   * [Chorale Prelude](https://www.youtube.com/watch?v=NHhuyhlSSiA&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&index=24&t=0s)
   * [Original Cantata Movement](https://youtu.be/NkSK9tEUTxU?t=761)
-* Bach, Chorale Prelude, "Wer nur den leben, Gott lasst walten"
-  * [Chorale Prelude](https://www.youtube.com/watch?v=vhn5Aa_rr9Y&t=21s)
-  * [Original Cantata Movement](https://youtu.be/sFw6IDdmm9s?t=651)
 * Bach, Jesu der du meine Seele, BWV 78 (cantata)
   * [Mvt. 1](https://www.youtube.com/watch?v=nvszOlv2ffs&t=0)
   * [Mvt. 7, Choral](https://youtu.be/nvszOlv2ffs?t=1325)
