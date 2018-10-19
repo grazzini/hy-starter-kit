@@ -105,14 +105,16 @@ Vivaldi, and Corelli.
 
 ### Styles
 
-* The "stile recitativo" (also "stile moderno", "stile rappresentativo")
+* The "stile recitativo" (in Monteverdi)
 
 ### Genres
 
 * Madrigal
 * Canzonetta
 * Mass
-* Opera, Oratorio, Cantata (+ Recitative, Aria)
+* Opera, Oratorio, Cantata
+  * Recitative & Aria
+  * "Chorale Cantata", "Chorale Fantasia"
 * Prelude, Chorale Prelude
 * Fugue
 * Chaconne
@@ -139,6 +141,7 @@ Vivaldi, and Corelli.
   * Invertible counterpoint
   * Stretto
   * Inversion, augmentation, diminution
+* Cantus Firmus (in chorale preludes and cantata movements)
 
 ### Forms
 
