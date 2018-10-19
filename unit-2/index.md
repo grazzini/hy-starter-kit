@@ -40,7 +40,8 @@ Vivaldi, and Corelli.
 * Monteverdi, Orfeo (opera)
   * ["Tu sei morta"](https://youtu.be/_7Wo-3DtI34?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=434)
   * [Translation](/translations/tu-sei-morta.html)
-* Couperin, Prelude in C major, from _L'Art de toucher le clavecin_
+* Couperin, Prelude in C major
+  * [Prelude](https://www.youtube.com/watch?v=V1M2zpfdTlk&index=7&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0s)
 * Purcell, Chacony in G minor
   * [Recording](https://www.youtube.com/watch?v=w6B9LJdxKbA&index=6&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0s)
 * Corelli, Sonata in G major, Op. 2, no. 12
