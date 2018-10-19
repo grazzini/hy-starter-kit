@@ -52,12 +52,12 @@ Vivaldi, and Corelli.
   * [Sarabande](https://www.youtube.com/watch?v=IZms8zps_iA&t=295s)
   * [Gigue](https://www.youtube.com/watch?v=IZms8zps_iA&t=453s)
 * Bach, French Suite in D minor
-  * [Allemande](https://www.youtube.com/watch?v=MM605SaPPwk&index=9&list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=0s)
-  * [Courante](https://youtu.be/MM605SaPPwk?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=215)
-  * [Sarabande](https://youtu.be/MM605SaPPwk?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=331)
-  * [Menuet 1](https://youtu.be/MM605SaPPwk?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=505)
-  * [Menuet 2](https://youtu.be/MM605SaPPwk?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=572)
-  * [Gigue](https://youtu.be/MM605SaPPwk?list=PLYyTDR5WeGuRCwU2564EYXcCq4LY-ANhp&t=688)
+  * [Allemande](https://www.youtube.com/watch?v=HCBKknvTtG8&t=0)
+  * [Courante](https://www.youtube.com/watch?v=HCBKknvTtG8&t=192s)
+  * [Sarabande](https://www.youtube.com/watch?v=HCBKknvTtG8&t=302s)
+  * [Menuet 1](https://www.youtube.com/watch?v=HCBKknvTtG8&t=463s)
+  * [Menuet 2](https://www.youtube.com/watch?v=HCBKknvTtG8&t=527s)
+  * [Gigue](https://www.youtube.com/watch?v=HCBKknvTtG8&t=639s)
 * Corelli, Concerto Grosso in C major
   * [Allemanda](https://youtu.be/UNsrdjzLrzM?t=5709)
   * [Corrente](https://youtu.be/UNsrdjzLrzM?t=5849)
