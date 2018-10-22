@@ -60,7 +60,13 @@ function currentHomePage() {
   if (dt < new Date("2018-10-17")) { return "/unit-2/w9.html#_10-16-drill" }
   if (dt < new Date("2018-10-18")) { return "/unit-2/w9.html#_10-17-cantatas-and-chorale-preludes" }
   if (dt < new Date("2018-10-19")) { return "/unit-2/w9.html#_10-18-drill" }
-  if (dt < new Date("2018-10-20")) { return "/unit-2/w9.html#_10-19-jesu-du-der-meine-seele" }
+  if (dt < new Date("2018-10-20")) { return "/unit-2/w9.html#_10-19-jesu-der-du-meine-seele" }
+
+  if (dt < new Date("2018-10-23")) { return "/unit-2/w10.html#_10-22-summing-up" }
+  if (dt < new Date("2018-10-24")) { return "/unit-2/w10.html#_10-23-drill-listening-exam-review" }
+  if (dt < new Date("2018-10-25")) { return "/unit-2/w10.html#_10-24-listening-exam-2" }
+  if (dt < new Date("2018-10-26")) { return "/unit-2/w10.html#_10-25-drill-written-exam-review" }
+  if (dt < new Date("2018-10-27")) { return "/unit-2/w10.html#_10-26-written-exam-2" }
 
   return "/unit-2"
 }

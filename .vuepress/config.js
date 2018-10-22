@@ -34,7 +34,7 @@ module.exports = {
             '/unit-2/w7',
             '/unit-2/w8',
             '/unit-2/w9',
-//          '/unit-2/w10',
+            '/unit-2/w10',
           ],
         },
 //      {
