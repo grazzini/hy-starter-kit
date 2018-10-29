@@ -10,6 +10,7 @@ export default ({ router }) => {
 
 function currentHomePage() {
   var dt = Date.now()
+  return "/unit-3/"
 
   if (dt < new Date("2018-08-23")) { return "/unit-1/w1.html#_8-22-cadences-missa-pange-lingua" }
   if (dt < new Date("2018-08-24")) { return "/unit-1/w1.html#_8-23-drill" }
@@ -68,5 +69,11 @@ function currentHomePage() {
   if (dt < new Date("2018-10-26")) { return "/unit-2/w10.html#_10-25-drill-written-exam-review" }
   if (dt < new Date("2018-10-27")) { return "/unit-2/w10.html#_10-26-written-exam-2" }
 
-  return "/unit-2"
+  if (dt < new Date("2018-10-30")) { return "/unit-3/w11.html#_10-29-the-classical-era" }
+  if (dt < new Date("2018-10-31")) { return "/unit-3/w11.html#_10-30-drill-listening-exam-review" }
+  if (dt < new Date("2018-11-01")) { return "/unit-3/w11.html#_10-31-phrase-types" }
+  if (dt < new Date("2018-11-02")) { return "/unit-3/w11.html#_11-01-no-drill" }
+  if (dt < new Date("2018-11-03")) { return "/unit-3/w11.html#_11-02-no-lecture" }
+
+  return "/unit-3/"
 }

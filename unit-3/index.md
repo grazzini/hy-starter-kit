@@ -10,7 +10,7 @@ and the study of form.
 
 ## Assignments
 
-* Homework 8 (**due 11/5**)
+* [Homework 8](HW-8.pdf) (**due 11/5**)
 * Homework 9 (**due 11/9**)
 * Homework 10 (**due 11/15**)
 * Homework 11 (**due 11/27**)
@@ -25,43 +25,46 @@ and the study of form.
 
 ## Additional Scores
 
-* Mozart, Piano Concerto in CM, K.467
+* Mozart, [Piano Concerto in CM, K.467, i. Allegro maestoso](mozart-k467.pdf)
+* Mozart, [Symphony no. 40 in Gm, K.550, iii. Menuetto & Trio](mozart-k550-iii.pdf)
 
 ## Listening List
 
 * Haydn, Sonata in CM, Hob. XVI/7
-  * i, Allegro moderato
-  * ii, Menuetto
-  * ii, Trio
-  * iii, Allegro
+  * i, [Allegro moderato](https://www.youtube.com/watch?v=tBr8vV7FRhY&index=3&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+  * ii, [Menuetto & Trio](https://www.youtube.com/watch?v=ElYuSf9fIcA&index=4&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+  * iii, [Allegro](https://www.youtube.com/watch?v=pI7zAB0CWEA&index=5&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Haydn, Symphony no. 45 ("Farewell")
-  * i, Allegro assai
+  * i, [Allegro assai](https://www.youtube.com/watch?v=KXctarOxRz8&index=6&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Haydn, Quartet in B-flat, Op. 76/4 ("Sunrise")
-  * i, Allegro con spirito
+  * i, [Allegro con spirito](https://www.youtube.com/watch?v=biyy2tzMb8M&index=7&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Haydn, Symphony no. 104 in DM
-  * i, Adagio (introduction)
-  * i, Allegro
+  * i, [Adagio](https://www.youtube.com/watch?v=zFx5kvZEvgo&index=9&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s) - [Allegro](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=144)
 * Mozart, Quartet in GM, K.156
-  * i, Presto
-  * ii, Adagio
-  * iii, Menuetto
+  * i, [Presto](https://www.youtube.com/watch?v=NUjE5kAEWeg&index=10&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+  * ii, [Adagio](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=176s)
+  * iii, [Menuetto](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=403s)
 * Mozart, Sonata in CM, K.309
-  * i, Allegro con spirito
-  * ii, Andante un poco adagio
-  * iii, Rondeau. Allegretto grazioso
+  * i, [Allegro con spirito](https://www.youtube.com/watch?v=wUPYIcAu1QI&index=11&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+  * ii, [Andante un poco adagio](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=340s)
+  * iii, [Rondeau. Allegretto grazioso](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=700s)
 * Mozart, Sonata in DM, K.311
-  * i, Allegro con spirito
+  * i, [Allegro con spirito](https://www.youtube.com/watch?v=roU3Qv5FdaE&index=12&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Mozart, Sonata in FM, K.332
-  * i, Allegro
+  * i, [Allegro](https://www.youtube.com/watch?v=3rmYwic6fLY&index=13&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Mozart, Quartet in Dm, K.421
-  * i,
+  * i, [Allegro moderato](https://www.youtube.com/watch?v=-RTKwdmIP0I&index=15&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Mozart, Concerto in GM, K.453
-  *
+  * i, [Allegro](https://www.youtube.com/watch?v=B_tt2SLGQwM&t=0)
+  * ii, [Andante](https://www.youtube.com/watch?v=B_tt2SLGQwM&t=688s)
+  * iii, [Allegretto - Presto](https://www.youtube.com/watch?v=B_tt2SLGQwM&t=1321s)
+* Mozart, Concerto in CM, K.467
+  * i, [Allegro moderato](https://www.youtube.com/watch?v=sZJjL1sTBp0&t=0)
 * Mozart, The Marriage of Figaro
-  * Act II, "Susana, or via sortite"
-* Mozart, Symphony no. 40 in Gm
-  * i, Molto allegro
-  * iii, Menuetto. Allegretto
+  * Act II, ["Susana, or via sortite"](https://www.youtube.com/watch?v=dnvujDKktMs&index=2&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+* Mozart, Symphony no. 40 in Gm, K.550
+  * i, [Molto allegro](https://www.youtube.com/watch?v=vkY_3-3Toyc&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s&index=17)
+  * iii, [Menuetto. Allegretto](https://www.youtube.com/watch?v=ql5aMOr9vCc&t=0)
 
 ## Terminology and Concepts
 
