@@ -35,7 +35,7 @@ and the study of form.
   * ii, [Menuetto & Trio](https://www.youtube.com/watch?v=ElYuSf9fIcA&index=4&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
   * iii, [Allegro](https://www.youtube.com/watch?v=pI7zAB0CWEA&index=5&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Haydn, Symphony no. 45 ("Farewell")
-  * i, [Allegro assai](https://www.youtube.com/watch?v=KXctarOxRz8&index=6&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+  * i, [Allegro assai](https://youtu.be/KXctarOxRz8?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=2)
 * Haydn, Quartet in B-flat, Op. 76/4 ("Sunrise")
   * i, [Allegro con spirito](https://www.youtube.com/watch?v=biyy2tzMb8M&index=7&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Haydn, Symphony no. 104 in DM
