@@ -11,14 +11,15 @@ and the study of form.
 ## Assignments
 
 * [Homework 8](HW-8.pdf) (**due 11/5**)
-* Homework 9 (**due 11/9**)
+* [Homework 9](HW-9.pdf) (**due 11/9**)
 * Homework 10 (**due 11/15**)
 * Homework 11 (**due 11/27**)
 * Project 3 (**due 12/3**)
 
 ## Handouts
 
-* Binary forms
+* Small Rounded Binary forms
+* Larger Rounded Binary forms
 * Sonata form
 * Variations
 * Enharmonic Reinterpretation
