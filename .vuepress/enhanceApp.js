@@ -74,11 +74,11 @@ function currentHomePage() {
   if (dt < new Date("2018-11-02")) { return "/unit-3/w11.html#_11-01-no-drill" }
   if (dt < new Date("2018-11-03")) { return "/unit-3/w11.html#_11-02-no-lecture" }
 
-  if (dt < new Date("2018-11-06")) { return "/unit-3/w11.html#_11-05-the-classical-minuet" }
-  if (dt < new Date("2018-11-07")) { return "/unit-3/w11.html#_11-06-drill" }
-  if (dt < new Date("2018-11-08")) { return "/unit-3/w11.html#_11-07-larger--binary-forms" }
-  if (dt < new Date("2018-11-09")) { return "/unit-3/w11.html#_11-08-drill" }
-  if (dt < new Date("2018-11-10")) { return "/unit-3/w11.html#_11-09-sonata-form" }
+  if (dt < new Date("2018-11-06")) { return "/unit-3/w12.html#_11-05-the-classical-minuet" }
+  if (dt < new Date("2018-11-07")) { return "/unit-3/w12.html#_11-06-drill" }
+  if (dt < new Date("2018-11-08")) { return "/unit-3/w12.html#_11-07-larger-binary-forms" }
+  if (dt < new Date("2018-11-09")) { return "/unit-3/w12.html#_11-08-drill" }
+  if (dt < new Date("2018-11-10")) { return "/unit-3/w12.html#_11-09-sonata-form" }
 
   return "/unit-3/"
 }
