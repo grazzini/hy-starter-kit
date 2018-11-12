@@ -12,16 +12,18 @@ and the study of form.
 
 * [Homework 8](HW-8.pdf) (**due 11/5**)
 * [Homework 9](HW-9.pdf) (**due 11/9**)
-* Homework 10 (**due 11/15**)
+* [Homework 10](HW-10.pdf) (**due 11/15**)
 * Homework 11 (**due 11/27**)
 * Project 3 (**due 12/3**)
 
 ## Handouts
 
-* Small Rounded Binary forms
-* Larger Rounded Binary forms
-* Sonata form
+* [Small Rounded Binary forms](handout-smaller-binary-forms.pdf)
+* [Larger Rounded Binary forms](handout-bigger-binary-forms.pdf)
+* [Sonata form](handout-sonata-form.pdf)
 * Variations
+* Concerto
+* Rondo Forms
 * Enharmonic Reinterpretation
 
 ## Additional Scores
