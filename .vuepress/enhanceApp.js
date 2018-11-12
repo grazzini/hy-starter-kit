@@ -80,5 +80,11 @@ function currentHomePage() {
   if (dt < new Date("2018-11-09")) { return "/unit-3/w12.html#_11-08-drill" }
   if (dt < new Date("2018-11-10")) { return "/unit-3/w12.html#_11-09-sonata-form" }
 
+  if (dt < new Date("2018-11-13")) { return "/unit-3/w13.html#_11-12-monothematic-expositions" }
+  if (dt < new Date("2018-11-14")) { return "/unit-3/w13.html#_11-13-drill" }
+  if (dt < new Date("2018-11-15")) { return "/unit-3/w13.html#_11-14-developments" }
+  if (dt < new Date("2018-11-16")) { return "/unit-3/w13.html#_11-15-drill" }
+  if (dt < new Date("2018-11-17")) { return "/unit-3/w13.html#_11-16-recapitulations" }
+
   return "/unit-3/"
 }
