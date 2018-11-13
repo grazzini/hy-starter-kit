@@ -42,8 +42,22 @@ and the study of form.
 * Haydn, Quartet in B-flat, Op. 76/4 ("Sunrise")
   * i, [Allegro con spirito](https://www.youtube.com/watch?v=biyy2tzMb8M&index=7&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Haydn, Symphony no. 104 in DM
-  * i, [Adagio](https://www.youtube.com/watch?v=zFx5kvZEvgo&index=9&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s) - [Allegro](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=144s)
-  * iii, [Menuetto and Trio](https://www.youtube.com/watch?v=zFx5kvZEvgo&t=1031s)
+  * Movement 1
+    * [Introduction (Adagio)](https://www.youtube.com/watch?v=zFx5kvZEvgo&index=9&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+    * Exposition (Allegro):
+      [P](https://www.youtube.com/watch?v=zFx5kvZEvgo&feature=youtu.be&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=144s)
+      [TR](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=159)
+      [S](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=190)
+      [C](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=224)
+    * [Development](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=350) -
+      [Retransition](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=410)
+    * Recapitulation:
+      [P](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=417)
+      [TR](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=433)
+      [S](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=471)
+      [C](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=490)
+    * [Coda](https://youtu.be/zFx5kvZEvgo?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=506)
+  * Movement 3, [Menuetto and Trio](https://www.youtube.com/watch?v=zFx5kvZEvgo&t=1031s)
 * Mozart, Quartet in GM, K.156
   * i, [Presto](https://www.youtube.com/watch?v=NUjE5kAEWeg&index=10&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
   * ii, [Adagio](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=176s)
@@ -58,6 +72,15 @@ and the study of form.
   * i, [Allegro](https://www.youtube.com/watch?v=3rmYwic6fLY&index=13&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Mozart, Quartet in Dm, K.421
   * i, [Allegro moderato](https://www.youtube.com/watch?v=-RTKwdmIP0I&index=15&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+* Mozart, Quartet in GM, K.387, i
+  * Exposition:
+    [P](https://youtu.be/L9HlwFVU7D0?t=91)
+    [TR (m.11)](https://youtu.be/L9HlwFVU7D0?t=113)
+    [S (m.25)](https://youtu.be/L9HlwFVU7D0?t=140)
+    [C (m.39)](https://youtu.be/L9HlwFVU7D0?t=168)
+  * [Development](https://youtu.be/L9HlwFVU7D0?t=315) -
+    [Retransition (m.101)](https://youtu.be/L9HlwFVU7D0?t=409)
+  * [Recapitulation](https://youtu.be/L9HlwFVU7D0?t=423)
 * Mozart, Concerto in GM, K.453
   * i, [Allegro](https://www.youtube.com/watch?v=B_tt2SLGQwM&t=0s)
   * ii, [Andante](https://www.youtube.com/watch?v=B_tt2SLGQwM&t=688s)
@@ -66,9 +89,20 @@ and the study of form.
   * i, [Allegro moderato](https://www.youtube.com/watch?v=sZJjL1sTBp0&t=0s)
 * Mozart, The Marriage of Figaro
   * Act II, ["Susana, or via sortite"](https://www.youtube.com/watch?v=dnvujDKktMs&index=2&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
-* Mozart, Symphony no. 40 in Gm, K.550
-  * i, [Molto allegro](https://www.youtube.com/watch?v=vkY_3-3Toyc&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0&index=17s)
-  * iii, [Menuetto. Allegretto](https://www.youtube.com/watch?v=ql5aMOr9vCc&t=0s)
+* Mozart, Symphony no. 40 in Gm, K.550, i
+  * Exposition:
+    [P](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=5)
+    [TR (m.20)](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=27)
+    [S (m.44)](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=51)
+    [C (m.66)](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=75)
+  * [Development](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=212) -
+    [Retransition](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=267)
+  * Recapitulation:
+    [P](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=279)
+    [TR](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=299)
+    [S](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=343)
+    [C](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=372)
+  * [Coda](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=405)
 
 ## Terminology and Concepts
 
