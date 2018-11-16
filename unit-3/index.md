@@ -14,7 +14,7 @@ and the study of form.
 * [Homework 9](HW-9.pdf) (**due 11/9**)
 * [Homework 10](HW-10.pdf) (**due 11/15**)
 * [Homework 11](HW-11.pdf) (**due 11/28**)
-* Project 3 (**due 12/5**)
+* Project 3 (**due 12/3**)
   * [Instructions](project-3-instructions.pdf)
   * [Score](project-3-score.pdf)
   * [Handout with Sample Reductions](handout-development-analyses.pdf)
