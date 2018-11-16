@@ -13,18 +13,23 @@ and the study of form.
 * [Homework 8](HW-8.pdf) (**due 11/5**)
 * [Homework 9](HW-9.pdf) (**due 11/9**)
 * [Homework 10](HW-10.pdf) (**due 11/15**)
-* Homework 11 (**due 11/27**)
-* Project 3 (**due 12/3**)
+* [Homework 11](HW-11.pdf) (**due 11/28**)
+* Project 3 (**due 12/5**)
+  * [Instructions](project-3-instructions.pdf)
+  * [Score](project-3-score.pdf)
+  * [Handout with Sample Reductions](handout-development-analyses.pdf)
 
 ## Handouts
 
 * [Small Rounded Binary forms](handout-smaller-binary-forms.pdf)
 * [Larger Rounded Binary forms](handout-bigger-binary-forms.pdf)
 * [Sonata form](handout-sonata-form.pdf)
+* [Haydn Symphony 104 Analysis](handout-haydn-104.pdf)
+* [Development Analyses](handout-development-analyses.pdf)
+* [Enharmonic Reinterpretation](handout-enharmonic-reinterpretation.pdf)
 * Variations
 * Concerto
 * Rondo Forms
-* Enharmonic Reinterpretation
 
 ## Additional Scores
 
