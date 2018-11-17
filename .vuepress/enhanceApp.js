@@ -86,5 +86,6 @@ function currentHomePage() {
   if (dt < new Date("2018-11-16")) { return "/unit-3/w13.html#_11-15-drill" }
   if (dt < new Date("2018-11-17")) { return "/unit-3/w13.html#_11-16-mozart-quartet-in-d-minor" }
 
+  return "/unit-3/w13.html#_11-16-mozart-quartet-in-d-minor"
   return "/unit-3/"
 }
