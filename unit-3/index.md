@@ -75,8 +75,24 @@ and the study of form.
   * i, [Allegro con spirito](https://www.youtube.com/watch?v=roU3Qv5FdaE&index=12&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Mozart, Sonata in FM, K.332
   * i, [Allegro](https://www.youtube.com/watch?v=3rmYwic6fLY&index=13&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
-* Mozart, Quartet in Dm, K.421
-  * i, [Allegro moderato](https://www.youtube.com/watch?v=-RTKwdmIP0I&index=15&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+* Mozart, Quartet in Dm, K.421, i (Allegro)
+  * Exposition:
+    [P](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0)
+    [TR](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=35)
+    [S](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=62)
+    [C](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=83)
+  * Development:
+    [P (m.42)](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=218)
+    [P (m.53)](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=248)
+    [S (m.59)](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=264)
+    [Retransition (m.66)](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=282)
+  * Recapitulation:
+    [P](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=294)
+    [TR](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=329)
+    [S](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=357)
+    [C](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=377)
+  * [Coda](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=593)
+
 * Mozart, Quartet in GM, K.387, i
   * Exposition:
     [P](https://youtu.be/L9HlwFVU7D0?t=91)

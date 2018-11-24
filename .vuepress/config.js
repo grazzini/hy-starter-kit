@@ -44,7 +44,7 @@ module.exports = {
             '/unit-3/w11',
             '/unit-3/w12',
             '/unit-3/w13',
-//          '/unit-3/w14',
+            '/unit-3/w14',
 //          '/unit-3/w15',
           ],
         },
