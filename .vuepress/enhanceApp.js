@@ -86,5 +86,11 @@ function currentHomePage() {
   if (dt < new Date("2018-11-16")) { return "/unit-3/w13.html#_11-15-drill" }
   if (dt < new Date("2018-11-17")) { return "/unit-3/w13.html#_11-16-mozart-quartet-in-d-minor" }
 
-  return "/unit-3/w13.html#_11-16-mozart-quartet-in-d-minor"
+  if (dt < new Date("2018-11-27")) { return "/unit-3/w14.html#_11-26-the-classical-concerto" }
+  if (dt < new Date("2018-11-28")) { return "/unit-3/w14.html#_11-27-drill" }
+  if (dt < new Date("2018-11-29")) { return "/unit-3/w14.html#_11-28-slow-movements" }
+  if (dt < new Date("2018-11-30")) { return "/unit-3/w14.html#_11-29-drill" }
+  if (dt < new Date("2018-12-03")) { return "/unit-3/w14.html#_11-30-variations" }
+
+  return "/unit-3/w14.html"
 }
