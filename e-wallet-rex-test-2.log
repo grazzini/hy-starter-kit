@@ -1,0 +1,59 @@
+Proxy server listening at http://*:8080
+[::1]:56430: clientconnect
+[::1]:56430: GET https://slack.com/clog/track/?logs=%5B%7B%22tstamp%22%3A1543444979832%2C%22event%22%3A%22SESSION_END%22%2C%22args%22%3A%7B%22contexts%22%3A%7B%22desktop%22%3A%7B%22instanceUid%22%3A%22cd734818-8d90-584e-ac65-deab5b0ee5bd%22%2C%22sessionId%22%3A%22Y2Q3MzQ4MTgtOGQ5MC01ODRlLWFjNjUtZGVhYjViMGVlNWJkXzE1NDM0NDIxNTQzNDk%3D%22%2C%22releaseChannel%22%3A%22mas%22%7D%7D%7D%2C%22user_id%22%3A%22U08SAC2LF%22%2C%22team_id%22%3A%22T07T6796X%22%2C%22client_session%22%3A%7B%22uid%22%3A%22ALV_rJSSNbM%22%2C%22timestamp_start%22%3A1543444875%2C%22timestamp_refresh%22%3A1543444880%2C%22version%22%3A0%7D%2C%22i18n_locale%22%3A%22en-US%22%7D%5D HTTP/2.0
+          << 200  29b
+[::1]:56432: clientconnect
+[::1]:56434: clientconnect
+[::1]:56434: GET https://www.google-analytics.com/collect?v=1&_v=j72&a=1640744304&t=event&_s=3&dl=https%3A%2F%2Fhillsborough.county-taxes.com%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&dp=selection&ul=en-us&de=UTF-8&dt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&sd=24-bit&sr=1440x900&vp=993x798&je=0&ec=E-Wallet&ea=Select%20Method&el=New%20card&_utma=1.1449658201.1543444953.1543444953.1543444953.1&_utmz=1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1543444996256&_u=SACCAEAB~&jid=&gjid=&cid=1449658201.1543444953&uid=anon%7Cbac723dd-96dd-4960-8e1f-4d652ff34fa3&tid=UA-116236333-1&_gid=218876941.1543444956&z=1706941212 HTTP/2.0
+          << 200  35b
+[::1]:56432: POST https://hillsborough.county-taxes.com/tcb/app/renew/shopping_cart/change_tender_type_now HTTP/2.0
+          << 200  251b
+[::1]:56432: GET https://hillsborough.county-taxes.com/tcb/app/renew/shopping_cart HTTP/2.0
+          << 200  6.55k
+[::1]:56437: clientconnect
+[::1]:56434: GET https://www.google-analytics.com/collect?v=1&_v=j72&a=542828007&t=event&_s=1&dl=https%3A%2F%2Fhillsborough.county-taxes.com%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&ul=en-us&de=UTF-8&dt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&sd=24-bit&sr=1440x900&vp=993x798&je=0&ec=E-Wallet&ea=Initial%20UI%20Options&el=UI%20-%20bankAccountHeading%3DBank%20Account%2C%20displayConvenienceFees%3Dfooter%2C%20expandDefault%3Dfalse%2C%20firstTenderType%3Dcard%2C%20showConvenienceFeeCheckbox%3Dtrue&_utma=1.1449658201.1543444953.1543444953.1543444953.1&_utmz=1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1543444998776&_u=SACCAEAB~&jid=&gjid=&cid=1449658201.1543444953&uid=anon%7C3bf5d1c3-5ade-45e5-aba9-cc1f57939bbd&tid=UA-116236333-1&_gid=218876941.1543444956&z=1569349279 HTTP/2.0
+          << 200  35b
+[::1]:56434: GET https://www.google-analytics.com/collect?v=1&_v=j72&a=542828007&t=pageview&_s=2&dl=https%3A%2F%2Fhillsborough.county-taxes.com%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&dp=selection&ul=en-us&de=UTF-8&dt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&sd=24-bit&sr=1440x900&vp=993x798&je=0&_utma=1.1449658201.1543444953.1543444953.1543444953.1&_utmz=1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1543444998780&_u=SACCAEAB~&jid=&gjid=&cid=1449658201.1543444953&uid=anon%7C3bf5d1c3-5ade-45e5-aba9-cc1f57939bbd&tid=UA-116236333-1&_gid=218876941.1543444956&z=1875293706 HTTP/2.0
+          << 200  35b
+[::1]:56437: GET https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=5&utmn=81857950&utmhn=hillsborough.county-taxes.com&utme=8(county)9(hillsborough)&utmcs=UTF-8&utmsr=1440x900&utmvp=993x798&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&utmhid=542828007&utmr=-&utmp=%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&utmht=1543444998944&utmac=UA-16964495-1&utmcc=__utma%3D1.1449658201.1543444953.1543444953.1543444953.1%3B%2B__utmz%3D1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qRAAAAAAAAAAAAAAAAAAAAAE~ HTTP/2.0
+          << 200  35b
+[::1]:56434: GET https://www.google-analytics.com/collect?v=1&_v=j72&a=542828007&t=event&_s=3&dl=https%3A%2F%2Fhillsborough.county-taxes.com%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&dp=selection&ul=en-us&de=UTF-8&dt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&sd=24-bit&sr=1440x900&vp=993x798&je=0&ec=E-Wallet&ea=Select%20Method&el=New%20card&_utma=1.1449658201.1543444953.1543444953.1543444953.1&_utmz=1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1543445000033&_u=SACCAEAB~&jid=&gjid=&cid=1449658201.1543444953&uid=anon%7C3bf5d1c3-5ade-45e5-aba9-cc1f57939bbd&tid=UA-116236333-1&_gid=218876941.1543444956&z=1668407172 HTTP/2.0
+          << 200  35b
+[::1]:56432: POST https://hillsborough.county-taxes.com/tcb/app/renew/shopping_cart/change_tender_type_now HTTP/2.0
+          << 200  252b
+[::1]:56439: clientconnect
+[::1]:56439: GET https://vault.county-taxes.com/vault/store.html?token=aNtgrAe2oQWrK-adWAjjpTwIR8o1E8Cily9xWBCa&path=%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&host=hillsborough.county-taxes.com&port=443&DEBUG=1&field_id=cc_credit_card_number&field_type=credit_card_number
+          << 200 OK 3.51k
+[::1]:56439: POST https://vault.county-taxes.com/vault/store
+          << 200 OK 539b
+[::1]:56439: GET https://vault.county-taxes.com/vault/store.html?token=aNtgrAe2oQWrK-adWAjjpTwIR8o1E8Cily9xWBCa&path=%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&host=hillsborough.county-taxes.com&port=443&DEBUG=1&field_id=cc_expiration_date&field_type=expiration_date
+          << 200 OK 3.49k
+[::1]:56439: POST https://vault.county-taxes.com/vault/store
+          << 200 OK 630b
+[::1]:56439: GET https://vault.county-taxes.com/vault/store.html?token=aNtgrAe2oQWrK-adWAjjpTwIR8o1E8Cily9xWBCa&path=%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&host=hillsborough.county-taxes.com&port=443&DEBUG=1&field_id=cc_cvv_number&field_type=cvv2
+          << 200 OK 3.46k
+[::1]:56439: POST https://vault.county-taxes.com/vault/store
+          << 200 OK 64b
+[::1]:56441: clientconnect
+[::1]:56434: GET https://www.google-analytics.com/collect?v=1&_v=j72&a=542828007&t=event&_s=4&dl=https%3A%2F%2Fhillsborough.county-taxes.com%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&dp=selection&ul=en-us&de=UTF-8&dt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&sd=24-bit&sr=1440x900&vp=993x798&je=0&ec=E-Wallet&ea=Check%20Out&el=New%20card&_utma=1.1449658201.1543444953.1543444953.1543444953.1&_utmz=1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1543445016283&_u=SACCAEAB~&jid=&gjid=&cid=1449658201.1543444953&uid=anon%7C3bf5d1c3-5ade-45e5-aba9-cc1f57939bbd&tid=UA-116236333-1&_gid=218876941.1543444956&z=1206055706 HTTP/2.0
+          << 200  35b
+[::1]:56441: OPTIONS https://e-wallet.grantstreet.com/api/v1/ping?event=checkout&firstTenderType=card&expandDefault=false&bankAccountHeading=Bank+Account&displayConvenienceFees=footer&showConvenienceFeeCheckbox=true&tenderType=card&lastDigits=1111&isNew=true&dataVaultToken=aNtgrAe2oQWrK-adWAjjpTwIR8o1E8Cily9xWBCa&testVersion=5 HTTP/2.0
+          << 200  0b
+[::1]:56441: GET https://e-wallet.grantstreet.com/api/v1/ping?event=checkout&firstTenderType=card&expandDefault=false&bankAccountHeading=Bank+Account&displayConvenienceFees=footer&showConvenienceFeeCheckbox=true&tenderType=card&lastDigits=1111&isNew=true&dataVaultToken=aNtgrAe2oQWrK-adWAjjpTwIR8o1E8Cily9xWBCa&testVersion=5 HTTP/2.0
+          << 200  4b
+[::1]:56432: POST https://hillsborough.county-taxes.com/tcb/app/renew/shopping_cart/add_tender HTTP/2.0
+          << 302  0b
+[::1]:56432: GET https://hillsborough.county-taxes.com/tcb/app/renew/shopping_cart HTTP/2.0
+          << 200  6.59k
+[::1]:56432: GET https://hillsborough.county-taxes.com/shared-static/images/icons/exclamation-red.png HTTP/2.0
+          << 200  592b
+[::1]:56434: GET https://www.google-analytics.com/collect?v=1&_v=j72&a=1375247365&t=event&_s=1&dl=https%3A%2F%2Fhillsborough.county-taxes.com%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&ul=en-us&de=UTF-8&dt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&sd=24-bit&sr=1440x900&vp=993x798&je=0&ec=E-Wallet&ea=Initial%20UI%20Options&el=UI%20-%20bankAccountHeading%3DBank%20Account%2C%20displayConvenienceFees%3Dfooter%2C%20expandDefault%3Dfalse%2C%20firstTenderType%3Dcard%2C%20showConvenienceFeeCheckbox%3Dtrue&_utma=1.1449658201.1543444953.1543444953.1543444953.1&_utmz=1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1543445019324&_u=SACCAEAB~&jid=&gjid=&cid=1449658201.1543444953&uid=anon%7C0a4fbfba-9953-4a77-aab7-b8e85ef05c3d&tid=UA-116236333-1&_gid=218876941.1543444956&z=899303851 HTTP/2.0
+          << 200  35b
+[::1]:56437: GET https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=6&utmn=1016346549&utmhn=hillsborough.county-taxes.com&utme=8(county)9(hillsborough)&utmcs=UTF-8&utmsr=1440x900&utmvp=993x798&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&utmhid=1375247365&utmr=0&utmp=%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&utmht=1543445019510&utmac=UA-16964495-1&utmcc=__utma%3D1.1449658201.1543444953.1543444953.1543444953.1%3B%2B__utmz%3D1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qRAAAAAAAAAAAAAAAAAAAAAE~ HTTP/2.0
+          << 200  35b
+[::1]:56434: GET https://www.google-analytics.com/collect?v=1&_v=j72&a=1375247365&t=pageview&_s=2&dl=https%3A%2F%2Fhillsborough.county-taxes.com%2Ftcb%2Fapp%2Frenew%2Fshopping_cart&dp=selection&ul=en-us&de=UTF-8&dt=Check%20Out%20-%20Hillsborough%20County%2C%20FL&sd=24-bit&sr=1440x900&vp=993x798&je=0&_utma=1.1449658201.1543444953.1543444953.1543444953.1&_utmz=1.1543444953.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1543445019327&_u=SACCAEAB~&jid=&gjid=&cid=1449658201.1543444953&uid=anon%7C0a4fbfba-9953-4a77-aab7-b8e85ef05c3d&tid=UA-116236333-1&_gid=218876941.1543444956&z=1832414964 HTTP/2.0
+          << 200  35b
+[::1]:56444: clientconnect
+[::1]:56444: CONNECT ds420.awmdm.com:443
+ << Cannot establish TLS with client (sni: ds420.awmdm.com): TlsException("SSL handshake error: SysCallError(-1, 'Unexpected EOF')",)
+[::1]:56444: clientdisconnect

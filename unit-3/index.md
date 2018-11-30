@@ -28,7 +28,7 @@ and the study of form.
 * [Development Analyses](handout-development-analyses.pdf)
 * [Enharmonic Reinterpretation](handout-enharmonic-reinterpretation.pdf)
 * [Concerto Sonata Form](handout-concerto-sonata-form.pdf)
-* Variations
+* [Variations](handout-variations.pdf)
 * Rondo Forms
 
 ## Additional Scores
@@ -131,6 +131,10 @@ and the study of form.
 
 * Standing on the dominant
 * Enharmonic reinterpretation
+* Variation:
+  * Progressive rhythmic animation
+  * Interlacing
+  * Mirroring
 
 ### Genres
 
@@ -154,4 +158,5 @@ and the study of form.
 * Concerto Sonata Form
   * Orchestral Exposition
   * Solo Exposition
+  * Cadenza
 * Variations
