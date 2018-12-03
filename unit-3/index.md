@@ -38,12 +38,12 @@ and the study of form.
 
 ## Listening List
 
-* Haydn, Sonata in CM, Hob. XVI/7
-  * i, [Allegro moderato](https://www.youtube.com/watch?v=tBr8vV7FRhY&index=3&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
-  * ii, [Menuetto & Trio](https://www.youtube.com/watch?v=ElYuSf9fIcA&index=4&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
-  * iii, [Allegro](https://www.youtube.com/watch?v=pI7zAB0CWEA&index=5&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
-* Haydn, Symphony no. 45 ("Farewell")
-  * i, [Allegro assai](https://youtu.be/KXctarOxRz8?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=2s)
+* <strike>Haydn, Sonata in CM, Hob. XVI/7</strike>
+  * <strike>i, [Allegro moderato](https://www.youtube.com/watch?v=tBr8vV7FRhY&index=3&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
+  * <strike>ii, [Menuetto & Trio](https://www.youtube.com/watch?v=ElYuSf9fIcA&index=4&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
+  * <strike>iii, [Allegro](https://www.youtube.com/watch?v=pI7zAB0CWEA&index=5&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
+* <strike>Haydn, Symphony no. 45 ("Farewell")</strike>
+  * <strike>i, [Allegro assai](https://youtu.be/KXctarOxRz8?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=2s)</strike>
 * Haydn, Quartet in B-flat, Op. 76/4 ("Sunrise")
   * i, [Allegro con spirito](https://www.youtube.com/watch?v=biyy2tzMb8M&index=7&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Haydn, Symphony no. 104 in DM
@@ -65,14 +65,14 @@ and the study of form.
   * Movement 3, [Menuetto and Trio](https://www.youtube.com/watch?v=zFx5kvZEvgo&t=1031s)
 * Mozart, Quartet in GM, K.156
   * i, [Presto](https://www.youtube.com/watch?v=NUjE5kAEWeg&index=10&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
-  * ii, [Adagio](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=176s)
-  * iii, [Menuetto](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=403s)
+  * <strike>ii, [Adagio](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=176s)</strike>
+  * <strike>iii, [Menuetto](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=403s)</strike>
 * Mozart, Sonata in CM, K.309
   * i, [Allegro con spirito](https://www.youtube.com/watch?v=wUPYIcAu1QI&index=11&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
-  * ii, [Andante un poco adagio](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=340s)
+  * <strike>ii, [Andante un poco adagio](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=340s)</strike>
   * iii, [Rondeau. Allegretto grazioso](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=700s)
-* Mozart, Sonata in DM, K.311
-  * i, [Allegro con spirito](https://www.youtube.com/watch?v=roU3Qv5FdaE&index=12&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+* <strike>Mozart, Sonata in DM, K.311</strike>
+  * <strike>i, [Allegro con spirito](https://www.youtube.com/watch?v=roU3Qv5FdaE&index=12&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
 * Mozart, Sonata in FM, K.332
   * i, [Allegro](https://www.youtube.com/watch?v=3rmYwic6fLY&index=13&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * Mozart, Quartet in Dm, K.421, i (Allegro)
@@ -92,7 +92,6 @@ and the study of form.
     [S](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=357)
     [C](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=377)
   * [Coda](https://youtu.be/-RTKwdmIP0I?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=593)
-
 * Mozart, Quartet in GM, K.387, i
   * Exposition:
     [P](https://youtu.be/L9HlwFVU7D0?t=91)
