@@ -15,6 +15,6 @@ For 11/28:
 For 12/4:
 
 * K.467, [S - play through the PAC at 4:24](https://www.youtube.com/watch?v=sZJjL1sTBp0&feature=youtu.be&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=236)
-* K.453/iii, [Theme: Just play first reprise (through 22:25)](https://www.youtube.com/watch?v=sZJjL1sTBp0&feature=youtu.be&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=236)
+* K.453/iii, [Theme: Just play first reprise (through 22:25)](https://youtu.be/B_tt2SLGQwM?t=1321)
 * "Sunrise Quartet", [Opening - through PAC at 0:46](https://www.youtube.com/watch?v=biyy2tzMb8M&index=7&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
 * K.387, [S - play through the second PAC (2:48)](https://www.youtube.com/watch?v=L9HlwFVU7D0&feature=youtu.be&t=140)
