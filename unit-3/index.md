@@ -29,12 +29,13 @@ and the study of form.
 * [Enharmonic Reinterpretation](handout-enharmonic-reinterpretation.pdf)
 * [Concerto Sonata Form](handout-concerto-sonata-form.pdf)
 * [Variations](handout-variations.pdf)
-* Rondo Forms
+* [Sonata Rondo](handout-sonata-rondo.pdf)
 
 ## Additional Scores
 
 * Mozart, [Piano Concerto in CM, K.467, i. Allegro maestoso](mozart-k467.pdf)
 * Mozart, [Symphony no. 40 in Gm, K.550, iii. Menuetto & Trio](mozart-k550-iii.pdf)
+* Mozart, [Piano Quartet in Gm, K478, iv. Rondo: Allegro Moderato](mozart-k487-iv.pdf)
 
 ## Listening List
 
@@ -68,9 +69,9 @@ and the study of form.
   * <strike>ii, [Adagio](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=176s)</strike>
   * <strike>iii, [Menuetto](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=403s)</strike>
 * Mozart, Sonata in CM, K.309
-  * i, [Allegro con spirito](https://www.youtube.com/watch?v=wUPYIcAu1QI&index=11&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+  * <strike>i, [Allegro con spirito](https://www.youtube.com/watch?v=wUPYIcAu1QI&index=11&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
   * <strike>ii, [Andante un poco adagio](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=340s)</strike>
-  * iii, [Rondeau. Allegretto grazioso](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=700s)
+  * <strike>iii, [Rondeau. Allegretto grazioso](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=700s)</strike>
 * <strike>Mozart, Sonata in DM, K.311</strike>
   * <strike>i, [Allegro con spirito](https://www.youtube.com/watch?v=roU3Qv5FdaE&index=12&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
 * Mozart, Sonata in FM, K.332
@@ -128,12 +129,18 @@ and the study of form.
 
 ### Techniques
 
-* Standing on the dominant
-* Enharmonic reinterpretation
+* Enharmonic Reinterpretation
 * Variation:
-  * Progressive rhythmic animation
+  * Progressive Rhythmic Animation
   * Interlacing
   * Mirroring
+* Cadence Patterns
+  * HC + Standing on the Dominant
+  * HC + Gap Fill
+  * ECP ("Expanded Cadential Progression")
+* Phrase Construction
+  * Period (+ "Parallel Period", "Contrasting Period")
+  * Sentence
 
 ### Genres
 
@@ -158,4 +165,6 @@ and the study of form.
   * Orchestral Exposition
   * Solo Exposition
   * Cadenza
+* Rondo
+* Sonata Rondo
 * Variations
