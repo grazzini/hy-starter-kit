@@ -68,7 +68,7 @@ and the study of form.
   * i, [Presto](https://www.youtube.com/watch?v=NUjE5kAEWeg&index=10&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
   * <strike>ii, [Adagio](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=176s)</strike>
   * <strike>iii, [Menuetto](https://youtu.be/NUjE5kAEWeg?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=403s)</strike>
-* Mozart, Sonata in CM, K.309
+* <strike>Mozart, Sonata in CM, K.309</strike>
   * <strike>i, [Allegro con spirito](https://www.youtube.com/watch?v=wUPYIcAu1QI&index=11&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
   * <strike>ii, [Andante un poco adagio](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=340s)</strike>
   * <strike>iii, [Rondeau. Allegretto grazioso](https://www.youtube.com/watch?v=wUPYIcAu1QI&t=700s)</strike>
@@ -108,8 +108,8 @@ and the study of form.
   * iii, [Allegretto - Presto](https://www.youtube.com/watch?v=B_tt2SLGQwM&t=1321s)
 * Mozart, Concerto in CM, K.467
   * i, [Allegro moderato](https://www.youtube.com/watch?v=sZJjL1sTBp0&t=0s)
-* Mozart, The Marriage of Figaro
-  * Act II, ["Susana, or via sortite"](https://www.youtube.com/watch?v=dnvujDKktMs&index=2&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)
+* <strike>Mozart, The Marriage of Figaro</strike>
+  * <strike>Act II, ["Susana, or via sortite"](https://www.youtube.com/watch?v=dnvujDKktMs&index=2&list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=0s)</strike>
 * Mozart, Symphony no. 40 in Gm, K.550, i
   * Exposition:
     [P](https://youtu.be/vkY_3-3Toyc?list=PLYyTDR5WeGuQaDWdAs7J2d_pYIuKrLpR7&t=5)
