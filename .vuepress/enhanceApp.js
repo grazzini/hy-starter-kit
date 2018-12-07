@@ -98,5 +98,5 @@ function currentHomePage() {
   if (dt < new Date("2018-12-07")) { return "/unit-3/w15.html#_12-06-drill-written-exam-review" }
   if (dt < new Date("2018-12-08")) { return "/unit-3/w15.html#_12-07-summing-up" }
 
-  return "/unit-3"
+  return "/unit-3/w15.html#_12-07-summing-up"
 }
